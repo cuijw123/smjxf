@@ -541,6 +541,14 @@
 {"key":"drpy_js_追剧兔","name":"影视|追剧兔[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/追剧兔.js"},
 {"key":"drpy_js_乐鱼影视","name":"影视|乐鱼影视[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/乐鱼影视.js"},
 {"key":"drpy_js_凌云影视","name":"影视|凌云影视[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/凌云影视.js"},
+{"key":"drpy_js_孜然影视","name":"影视|孜然影视[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/孜然影视.js"},
+{"key":"drpy_js_七年影视","name":"影视|七年影视[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/七年影视.js"},
+{"key":"drpy_js_思古影视","name":"影视|思古影视[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/思古影视.js"},
+{"key":"drpy_js_电影先生","name":"影视|电影先生[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/电影先生.js"},
+{"key":"drpy_js_叭度影视","name":"影视|叭度影视[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/叭度影视.js"},
+{"key":"drpy_js_北川影视","name":"影视|北川影视[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/北川影视.js"},
+{"key":"drpy_js_光棍影院","name":"影视|光棍影院[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/光棍影院.js"},
+{"key":"drpy_js_柒之社","name":"影视|柒之社[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/柒之社.js"},
 
 //{"key":"Yisou","name":"易搜","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":1,"ext":"676d915af62243a68674a709b3eac5d8","jar":"./JAR/qj231121.jar"},
 
