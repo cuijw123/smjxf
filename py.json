@@ -6,8 +6,18 @@
 "sites":[
 
 {
+"key":"py_douban",
+"name":"💖Smj.Love.C💖 影视推荐〔PY〕",
+"type":3,
+"api":"py_douban",
+"searchable":1,
+"quickSearch":1,
+"filterable":1,
+"ext":"./plugin/py_douban.py"
+},
+{
 "key":"py_kuaikan",
-"name":"💖Smj.Love.C💖 快看〔PY〕",
+"name":"快看〔PY〕",
 "type":3,
 "api":"py_kuaikan",
 "searchable":1,
