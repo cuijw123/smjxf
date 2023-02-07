@@ -85,7 +85,9 @@
 
 {"key":"cap_Zjdr","name":"追剧达人〔SP〕","type":3,"api":"csp_Zjdr","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"一起看","name":"一起看〔ts〕","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8e3aefcba838d8dc5102ac786719d837","jar":"./JAR/cs.jar"},
+//{"key":"一起看","name":"一起看〔ts〕","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8e3aefcba838d8dc5102ac786719d837","jar":"./JAR/cs.jar"},
+
+{"key":"一起看","name":"一起看〔ts〕","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8e3aefcba838d8dc5102ac786719d837","jar":"./JAR/ts.jar"},
 
 {"key":"Yanet","name":"鸭奈飞〔ts〕","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"a369b1f623fe86605f1b029f0cf66349","jar":"./JAR/cs.jar"},
 
@@ -129,7 +131,7 @@
 
 {"key":"csp_xBPQ_333影视","name":"333影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/333影视.json","jar":"./JAR/XBPQ_0111.jar"},
 
-{"key":"csp_xBPQ_98影院","name":"98影院","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/98影院.json"},
+//{"key":"csp_xBPQ_98影院","name":"98影院","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/98影院.json"},
 
 {"key":"csp_xBPQ_布蕾影院","name":"布蕾影院","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/布蕾影院.json"},
 
@@ -151,9 +153,9 @@
 
 {"key":"csp_xBPQ_花猫TV","name":"花猫TV","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/花猫TV.json"},
 
-{"key":"csp_xBPQ_看戏影视","name":"看戏影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/看戏影视.json"},
+//{"key":"csp_xBPQ_看戏影视","name":"看戏影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/看戏影视.json"},
 
-{"key":"csp_xBPQ_鸭奈飞影视","name":"鸭奈飞影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
+//{"key":"csp_xBPQ_鸭奈飞影视","name":"鸭奈飞影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"./xBPQ/鸭奈飞影视.json"},
 
 {"key":"csp_xBPQ_创意影视","name":"创意影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
