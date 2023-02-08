@@ -13,7 +13,7 @@
 {"key":"T4_douban","name":"豆瓣推荐(T4)","type":4,"api":"https://t4.饭太硬.ml/vod","searchable":1,"quickSearch":1,"filterable":1},
 
 // {"key":"bili","name":"Bili音乐[jar]","type":3,"api":"csp_Bili","ext":"./JS/js/音乐演唱.json"},
-{"key":"bili","name":"Bili音乐[jar]","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./JS/js/音乐演唱.json"},
+{"key":"bili","name":"Bili音乐[jar]","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"./JS/js/音乐演唱.json"},
 
 {"key":"drpy_js_DJ音乐","name":"音频┃DJ音乐[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/DJ音乐.js","playerType":"2"},
 
@@ -103,7 +103,7 @@
 
 {"key":"csp_Paper","name":"小纸条〔SP〕","type":3,"api":"csp_Paper","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt"},
 
-{"key":"csp_Bili","name":"哔哩套餐〔SP〕","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/哔哩哔哩.json"},
+{"key":"csp_Bili","name":"哔哩套餐〔SP〕","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"./xBPQ/哔哩哔哩.json"},
 
 {"key":"csp_Yj1211","name":"️直播合集〔SP〕","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
 
@@ -358,7 +358,9 @@
 
 {"key":"csp_XYQHiker_39影视","name":"39影视(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/39影视.json"},
 
-{"key":"csp_XYQHiker_4K极客","name":"4K极客(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/4K极客.json"},
+{"key":"csp_XYQH4k_4K极客","name":"4K极客(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/4K极客.json"},
+
+{"key":"csp_XYQHiker_野荷塘","name":"野荷塘(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/野荷塘.json"},
 
 {"key":"csp_XYQHiker_回响影视","name":"回响影视(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/回响影视.json"},
 
