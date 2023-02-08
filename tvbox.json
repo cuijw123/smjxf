@@ -12,7 +12,8 @@
 
 {"key":"T4_douban","name":"豆瓣推荐(T4)","type":4,"api":"https://t4.饭太硬.ml/vod","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"bili","name":"Bili音乐[jar]","type":3,"api":"csp_Bili","ext":"./JS/js/音乐演唱.json"},
+// {"key":"bili","name":"Bili音乐[jar]","type":3,"api":"csp_Bili","ext":"./JS/js/音乐演唱.json"},
+{"key":"bili","name":"Bili音乐[jar]","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./JS/js/音乐演唱.json"},
 
 {"key":"drpy_js_DJ音乐","name":"音频┃DJ音乐[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/DJ音乐.js","playerType":"2"},
 
@@ -536,11 +537,10 @@
 {"key":"drpy_js_Fun4K","name":"影视┃Fun4K[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/Fun4K.js"},
 {"key":"drpy_js_欧帝影院","name":"影视┃欧帝影院[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/欧帝影院.js"},
 {"key":"drpy_js_追剧迷","name":"影视┃追剧迷[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/追剧迷.js"},
-
 {"key":"drpy_js_伊雪湾","name":"影视┃伊雪湾[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/伊雪湾.js"},
 {"key":"drpy_js_免费看","name":"影视┃免费看[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/免费看.js"},
 {"key":"drpy_js_小狗影院","name":"影视┃小狗影院[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/小狗影院.js"},
-{"key":"drpy_js_路漫漫","name":"影视┃路漫漫[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/路漫漫.js"},
+{"key":"drpy_js_路漫漫","name":"动漫┃路漫漫[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/路漫漫.js"},
 
 //{"key":"Yisou","name":"易搜","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":1,"ext":"676d915af62243a68674a709b3eac5d8","jar":"./JAR/qj231121.jar"},
 
