@@ -17,6 +17,16 @@
 "jar": "./JAR/ou.jar"
 },
 {
+    "key": "py_libvio",
+    "name": "LIBVIO(PY)",
+    "type": 3,
+    "api": "py_libvio",
+    "searchable": 0,
+    "quickSearch": 0,
+    "filterable": 1,
+    "ext": "./plugin/pylibvio.py"
+},
+{
 "key":"py_kuaikan",
 "name":"快看〔PY〕",
 "type":3,
@@ -217,14 +227,14 @@
 "ext":"./plugin/py_xmaomi.py"
 },
 {
-"key":"py_gitcafe",
-"name":"小纸条〔PY〕",
-"type":3,
-"api":"py_gitcafe",
-"searchable":1,
-"quickSearch":1,
-"filterable":0,
-"ext":"./plugin/py_gitcafe.py"
+"key": "py_gitcafe",
+"name": "小纸条〔PY〕",
+"type": 3,
+"api": "py_gitcafe",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 0,
+"ext": "./plugin/py_gitcafe.py"
 },
 {
 "key":"py_zhaozy",
