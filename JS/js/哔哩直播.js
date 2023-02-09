@@ -54,7 +54,7 @@ var rule = {
     // detailUrl:'https://api.live.bilibili.com/xlive/web-room/v1/playUrl/playUrl?cid=fyid&platform=h5&otype=json&quality=0',//二级详情拼接链接(json格式用)
     // searchUrl:'/x/web-interface/search/type?__refresh__=true&page=fypage&page_size=42&order=online&platform=pc&highlight=1&single_column=0&keyword=**&search_type=live&dynamic_offset=0&preload=true',
     searchUrl:'https://api.bilibili.com/x/web-interface/search/type?search_type=live&keyword=**&page=1',
-    searchable:2,
+    searchable:1,
     quickSearch:0,
     headers:{
         "User-Agent":"PC_UA",
