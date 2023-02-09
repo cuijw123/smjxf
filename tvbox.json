@@ -5,7 +5,6 @@
 
 "sites":[
 
-
 {"key":"drpy_js_豆瓣","name":"💖Smj.Love.C💖 影视推荐","type":3,"api":"./JS/lib/drpy.min.js","ext":"./JS/js/drpy.js"},
 
 {"key":"drpy_js_baby","name":"💖张梓晨💖宝宝动漫库 😙","type":3,"api":"./JS/lib/alist.min.js","ext":"./JS/js/baby.json"},
@@ -56,7 +55,7 @@
 
 {"key":"csp_Bdys","name":"哔嘀影视〔SP〕","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"csp_Mjxq","name":"美剧星球〔SP〕","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"csp_Mjxq","name":"美剧星球〔SP〕","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"csp_Lib","name":"LIBVIO〔SP〕","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1},
 
@@ -70,7 +69,7 @@
 
 {"key":"csp_Tkys","name":"天空影视〔SP〕","type":3,"api":"csp_Tkys","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"csp_Juhuang","name":"剧荒TV〔SP〕","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"csp_Juhuang","name":"剧荒TV〔SP〕","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"csp_Nkdy","name":"南柯〔SP〕","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1},
 
@@ -100,7 +99,7 @@
 
 {"key":"Lgyy","name":"蓝光影院〔ts〕","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"b2e573ff040fcd54b50475660ee1a7d1","jar":"./JAR/cs.jar"},
 
-{"key":"csp_Paper","name":"小纸条〔SP〕","type":3,"api":"csp_Paper","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt"},
+{"key":"csp_Paper","name":"小纸条〔SP〕","type":3,"api":"csp_Paper","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "./JS/lib/token.txt"},
 
 {"key":"csp_Bili","name":"哔哩套餐〔SP〕","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"./xBPQ/哔哩哔哩.json"},
 
@@ -553,15 +552,15 @@
 
 //{"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"676d915af62243a68674a709b3eac5d8","jar":"./JAR/qj231121.jar"}
 
-{"key":"PanSou","name":"盘搜","type":3,"api":"csp_PanSou","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt"},
+{"key":"PanSou","name":"盘搜","type":3,"api":"csp_PanSou","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "./JS/lib/token.txt"},
 
-{"key":"YiSo","name":"易搜","type":3,"api":"csp_YiSo","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt"},
+{"key":"YiSo","name":"易搜","type":3,"api":"csp_YiSo","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "./JS/lib/token.txt"},
 
-{"key":"UpYun","name":"Up云搜","type":3,"api":"csp_UpYun","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt"},
+{"key":"UpYun","name":"Up云搜","type":3,"api":"csp_UpYun","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "./JS/lib/token.txt"},
 
-{"key":"Zhaozy","name":"找资源","type":3,"api":"csp_Zhaozy","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt"},
+{"key":"Zhaozy","name":"找资源","type":3,"api":"csp_Zhaozy","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "./JS/lib/token.txt"},
 
-{"key":"push_agent","name":"推送┃云盘┃磁力","type":3,"api":"csp_PushAgent","playerType":1,"searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt","jar":"./JAR/cs.jar"}
+{"key":"push_agent","name":"推送┃云盘┃磁力","type":3,"api":"csp_PushAgent","playerType":1,"searchable":0,"quickSearch":0,"filterable":0,"ext":"./JS/lib/token.txt","jar":"./JAR/cs.jar"}
 ],
 
 
@@ -572,11 +571,16 @@
 {"name":"Json轮询","type":2,"url":"Sequence"},
 
 
-{
-    "name": "1号线",
-    "type": 1,
-    "url": "http://jiexi.xn--9kq078cdn3a.cc/api/?key=GMp1H9mKRKVriBulRT&url="
-  },	
+// {
+//     "name": "1号线",
+//     "type": 1,
+//     "url": "http://jiexi.xn--9kq078cdn3a.cc/api/?key=GMp1H9mKRKVriBulRT&url="
+//   },	
+        {
+          "name": "1号线",
+          "type": 1,
+          "url": "http://rxjx.kuanjv.com/allm3u8.php?url="
+        },
   {
     "name": "2号线",
     "type": 1,
@@ -762,7 +766,7 @@
 {
   "name": "19号线",
   "type": 1,
-  "url": "https://chaloli.cn/api/?key=454af70ae4c2f8369527a16413ed27ba&url=",
+  "url": "https://chaloli.cn/api/?key=bb22f39a69278dff2a48c4222eea4a5c&url=",
   "header": {
       "User-Agent": "Mozilla/5.0"
   }
