@@ -502,8 +502,12 @@
 {"key":"drpy_js_免费看","name":"影视┃免费看[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/免费看.js"},
 {"key":"drpy_js_小狗影院","name":"影视┃小狗影院[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/小狗影院.js"},
 {"key":"drpy_js_路漫漫","name":"动漫┃路漫漫[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/路漫漫.js"},
-{"key":"drpy_js_Nike影视","name":"动漫┃Nike影视[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/Nike影视.js"},
-{"key":"drpy_js_饭团影视","name":"动漫┃饭团影视[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/饭团影视.js"},
+{"key":"drpy_js_Nike影视","name":"影视┃Nike影视[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/Nike影视.js"},
+{"key":"drpy_js_饭团影视","name":"影视┃饭团影视[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/饭团影视.js"},
+{"key":"drpy_js_大豆","name":"影视┃大豆高清[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/大豆.js"},
+{"key":"drpy_js_爱弹幕","name":"动漫┃爱弹幕[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/爱弹幕.js"},
+{"key":"drpy_js_看韩剧","name":"影视┃看韩剧[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/看韩剧.js"},
+
 {"key":"csp_xBPQ_速搜影视","name":"速搜影视","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./xBPQ/速搜影视.json"},
 
 
