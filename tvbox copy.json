@@ -512,7 +512,8 @@
 {"key":"drpy_js_路漫漫","name":"动漫┃路漫漫[js]","type":3,"api":"./JS/lib/drpymin.js","ext":"./JS/js/路漫漫.js"},
 {"key":"drpy_js_Nike影视","name":"动漫┃Nike影视[js]","type":3,"api":"./JS/lib/drpymin.js","ext":"./JS/js/Nike影视.js"},
 {"key":"drpy_js_大豆","name":"动漫┃大豆高清[js]","type":3,"api":"./JS/lib/drpymin.js","ext":"./JS/js/大豆.js"},
-{"key":"drpy_js_饭团影视","name":"动漫┃饭团影视[js]","type":3,"api":"./JS/lib/drpymin.js","ext":"./JS/js/饭团影视.js"},
+
+// {"key":"drpy_js_饭团影视","name":"动漫┃饭团影视[js]","type":3,"api":"./JS/lib/drpymin.js","ext":"./JS/js/饭团影视.js"},
 {"key":"csp_xBPQ_速搜影视","name":"速搜影视","type":3,"api":"./JS/lib/drpymin.js","ext":"./xBPQ/速搜影视.json"},
 
 
