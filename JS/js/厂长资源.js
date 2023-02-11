@@ -3,7 +3,7 @@ var rule={
     host:'https://czspp.com',
     url:'/fyclass/page/fypage',
     // searchUrl:'/xssearch?q=**&f=_all&p=fypage',
-    searchUrl:'/?#s=**;post',
+    //searchUrl:'/?#s=**;post',
     searchable:2,
     filterable:0,
     headers:{'User-Agent':'PC_UA', },
