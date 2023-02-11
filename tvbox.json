@@ -1,5 +1,6 @@
 {
-"spider":"./JAR/Yoursmile.jar",
+// "spider":"./JAR/Yoursmile.jarr",
+"spider":"./JAR/duo.jar",
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=./TV/live.txt"]}]}],
 "wallpaper":"http://maoyingshi.cc/api.php",
 
@@ -15,19 +16,15 @@
 
 {"key":"bili","name":"Bili音乐[jar]","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"./JS/js/音乐演唱.json"},
 
-{"key":"drpy_js_DJ音乐","name":"音频┃DJ音乐[js]","type":3,"api":"./JS/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"./JS/js/DJ音乐.js","playerType":"2"},
-
-{"key":"csp_Kunyu77","name":"七七〔SP〕","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Kunyu77","name":"酷云七七〔SP〕","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"csp_Lib","name":"LIBVIO〔SP〕","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"py_libvio","name":"LIBVIO(PY)","type":3,"api":"py_libvio","searchable":0,"quickSearch":0,"filterable":1,"ext":"./plugin/pylibvio.py"},
 
-{"key":"csp_GitCafe", "name": "小纸条〔SP〕","type":3,"api":"csp_Gitcafe","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./JS/lib/token.txt","jar":"./JAR/pan230203.jar"},
+{"key":"csp_GitCafe", "name": "小纸条〔SP〕","type":3,"api":"csp_Gitcafe","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./JS/lib/token.txt"},
 
 {"key":"csp_AppTT2","name":"图图影视〔SP〕","type":3,"api":"csp_AppTT2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://154.39.64.151:5566$$$Qks3NWg0dnRPbmlsV3JMdCNkMFZ0OHBJbjRJQXByY3I=$$$Y2hpV2g0dnRiU3pYUGdWWg=="},
-
-{"key":"AppTT","name":"图图影视〔ts〕","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"110c922de7d69804467fb83d3bb664b5","jar":"./JAR/cs.jar"},
 
 {"key":"csp_Czsapp","name":"厂长资源〔SP〕","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 
@@ -39,11 +36,11 @@
 
 {"key":"csp_LiteApple","name":"小苹果〔SP〕","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"csp_BuLei","name":"布雷影院〔SP〕","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_BuLei","name":"布雷影院〔SP〕","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"m3u8ads": "wan.51img1.com"},
 
 {"key":"csp_Nmys","name":"农民影视〔SP〕","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XP/nongminyingshi.json"},
 
-{"key":"Dy555","name":"555电影〔ts〕","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"f41992bd740145ed58cb212dc0876582","jar":"./JAR/cs.jar"},
+{"key":"csp_xBPQ_555电影","name":"555电影〔ts〕","type":"3","api":"csp_xBPQ","searchable":"1","quickSearch":"1","filterable":"1","ext":"./JS/XB/555电影.json"},
 
 {"key":"csp_Kuaikan","name":"快看〔SP〕","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 
@@ -110,8 +107,6 @@
 {"key":"csp_NiNi","name":"泥视频 墙外〔SP〕","type":3,"api":"csp_NiNi","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"Tbook","name":"听书网〔SP〕","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"d16d1517e9eaad9909cb35c55ba0b784","jar":"./JAR/cs.jar"},
-
-{"key":"csp_bendi","name":"本地文件(打开存储权限)","type":3,"api":"csp_LocalFile","searchable":1,"quickSearch":1,"filterable":1,"type_flag":1},
 
 {"key":"csp_Alist1","name":"网盘合集(SP)","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":1,"jumpDetail":0,"reversePlay":0,"enable":1,"ext":"./xBPQ/Alist1.json"},
 
@@ -391,6 +386,7 @@
 {"key":"drpy_js_酷奇MV","name":"MV┃酷奇[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/酷奇MV.js"},
 {"key":"drpy_js_爱车MV","name":"MV┃爱车[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/爱车MV.js"},
 {"key":"drpy_js_音悦网","name":"MV┃音悦网[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/音悦网.js"},
+{"key":"drpy_js_DJ音乐","name":"音频┃DJ音乐[js]","type":3,"api":"./JS/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"./JS/js/DJ音乐.js","playerType":"2"},
 {"key":"drpy_js_哔哩直播","name":"直播┃哔哩[js]","type":3,"api":"./JS/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"./JS/js/哔哩直播.js"},
 {"key":"drpy_js_斗鱼直播","name":"直播┃斗鱼[js]","type":3,"api":"./JS/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"./JS/js/斗鱼直播.js"},
 {"key":"drpy_js_虎牙直播","name":"直播┃虎牙[js]","type":3,"api":"./JS/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"./JS/js/虎牙直播.js"},
@@ -545,6 +541,8 @@
 {"key":"UpYun","name":"Up云搜","type":3,"api":"csp_UpYun","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "./JS/lib/token.txt"},
 
 {"key":"Zhaozy","name":"找资源","type":3,"api":"csp_Zhaozy","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "./JS/lib/token.txt"},
+
+{"key":"csp_bendi","name":"本地文件(打开存储权限)","type":3,"api":"csp_LocalFile","searchable":1,"quickSearch":1,"filterable":1,"type_flag":1},
 
 {"key":"push_agent","name":"推送┃云盘┃磁力","type":3,"api":"csp_PushAgent","playerType":1,"searchable":0,"quickSearch":0,"filterable":0,"ext":"./JS/lib/token.txt","jar":"./JAR/cs.jar"}
 ],
