@@ -1,4 +1,4 @@
-
+//未完成
 var rule={
 		title:'9U电影',
 		host:'https://www.jiketv.com',
