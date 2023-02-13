@@ -18,11 +18,11 @@
 
 {"key":"csp_Kunyu77","name":"酷云七七〔SP〕","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"csp_Lib","name":"LIBVIO〔SP〕","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"csp_Lib","name":"LIBVIO〔SP〕","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://libvio.me"},
 
 {"key":"py_libvio","name":"LIBVIO(PY)","type":3,"api":"py_libvio","searchable":0,"quickSearch":0,"filterable":1,"ext":"./plugin/pylibvio.py"},
 
-{"key":"csp_GitCafe", "name": "小纸条〔SP〕","type":3,"api":"csp_Gitcafe","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./JS/lib/token.txt"},
+//{"key":"csp_GitCafe", "name": "小纸条〔SP〕","type":3,"api":"csp_Gitcafe","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./JS/lib/token.txt"},
 
 {"key":"csp_AppTT2","name":"图图影视〔SP〕","type":3,"api":"csp_AppTT2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://154.39.64.151:5566$$$Qks3NWg0dnRPbmlsV3JMdCNkMFZ0OHBJbjRJQXByY3I=$$$Y2hpV2g0dnRiU3pYUGdWWg=="},
 
@@ -40,7 +40,7 @@
 
 {"key":"csp_Nmys","name":"农民影视〔SP〕","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XP/nongminyingshi.json"},
 
-{"key":"csp_xBPQ_555电影","name":"555电影","type":"3","api":"csp_xBPQ","searchable":"1","quickSearch":"1","filterable":"1","ext":"./JS/XB/555电影.json"},
+{"key":"csp_xBPQ_555电影","name":"555电影(XB)","type":"3","api":"csp_xBPQ","searchable":"1","quickSearch":"1","filterable":"1","ext":"./JS/XB/555电影.json"},
 
 {"key":"csp_Kuaikan","name":"快看〔SP〕","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 
@@ -56,8 +56,6 @@
 
 {"key":"csp_Bdys","name":"哔嘀影视〔SP〕","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"csp_Lib","name":"LIBVIO〔SP〕","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1},
-
 {"key":"csp_IQIYI","name":"爱奇艺〔SP〕","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"csp_Mgtv","name":"芒果TV〔SP〕","type":3,"api":"csp_Mgtv","searchable":1,"quickSearch":1,"filterable":1},
@@ -72,7 +70,7 @@
 
 {"key":"csp_Dy1010","name":"双十〔SP〕","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"Tian","name":"天天〔ts〕","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"bdc1c75081e5e477189a463baa47e392","jar":"./JAR/cs.jar"},
+{"key":"Tian","name":"天天〔SP〕","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"bdc1c75081e5e477189a463baa47e392"},
 
 {"key":"csp_Smdyy","name":"神马影院〔SP〕","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1},
 
@@ -86,7 +84,7 @@
 
 {"key":"Lgyy","name":"蓝光影院〔ts〕","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"b2e573ff040fcd54b50475660ee1a7d1","jar":"./JAR/cs.jar"},
 
-{"key":"csp_Paper","name":"小纸条〔SP〕","type":3,"api":"csp_Paper","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "./JS/lib/token.txt"},
+//{"key":"csp_Paper","name":"小纸条〔SP〕","type":3,"api":"csp_Paper","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "./JS/lib/token.txt"},
 
 {"key":"csp_Bili","name":"哔哩套餐〔SP〕","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"./xBPQ/哔哩哔哩.json"},
 
@@ -486,7 +484,7 @@
 {"key":"drpy_js_真不卡儿","name":"影视┃真不卡儿[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/真不卡.js"},
 {"key":"drpy_js_追剧达人","name":"影视┃追剧达人[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/追剧达人.js"},
 {"key":"drpy_js_追剧啦儿","name":"影视┃追剧啦儿[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/追剧啦.js"},
-{"key":"drpy_js_子子影视","name":"影视┃子子影视[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/子子影视.js"},
+//有xx{"key":"drpy_js_子子影视","name":"影视┃子子影视[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/子子影视.js"},
 {"key":"drpy_js_B站影视","name":"影视┃B站影视[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/B站影视.js"},
 {"key":"drpy_js_追剧兔","name":"影视┃追剧兔[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/追剧兔.js"},
 {"key":"drpy_js_乐鱼影视","name":"影视┃乐鱼影视[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/乐鱼影视.js"},
