@@ -12,6 +12,8 @@
 
 {"key":"T4_douban","name":"豆瓣推荐(T4)","type":4,"api":"https://t4.饭太硬.ml/vod","searchable":1,"quickSearch":1,"filterable":1},
 
+//备用{"key":"T4_douban","name":"豆瓣推荐(T4)","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=0c55c9f1c5cb4327ae2e51423276bb1e","searchable":0,"quickSearch":0,"filterable":1},
+
 {"key": "csp_app_源头","name": "肥猫影院","type": 1,"api": "http://我是.肥猫.love:63/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1,"playurl": "https://json.xn--9kq078cdn3a.cc/api/?key=694138485bf1110c147f85d92e86edc3&url="},
 
 {"key":"bili","name":"Bili音乐[jar]","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"./JS/js/音乐演唱.json"},
@@ -78,11 +80,15 @@
 
 {"key":"Pang","name":"胖虎〔ts〕","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"c41fdb671b20925c76fa9b6ff8bad027","jar":"./JAR/cs.jar"},
 
-{"key":"Ddys","name":"低端影视〔ts〕","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"1cc92323700909e7d46623bc85b958d6","jar":"./JAR/cs.jar"},
+//{"key":"Ddys","name":"低端影视〔ts〕","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"1cc92323700909e7d46623bc85b958d6","jar":"./JAR/cs.jar"},
+
+{"key":"csp_DiDuan","name":"低端影视〔SP〕","type":"3","api":"csp_Ddrk","searchable":"1","quickSearch":"1","filterable":"1","ext":"1cc92323700909e7d46623bc85b958d6","jar":"./JAR/cs.jar"},
 
 {"key":"Hei","name":"石榴〔ts〕","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"3bff500c8b1e06c052a1b0f1f7a62b45","jar":"./JAR/cs.jar"},
 
-{"key":"Lgyy","name":"蓝光影院〔ts〕","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"b2e573ff040fcd54b50475660ee1a7d1","jar":"./JAR/cs.jar"},
+//{"key":"Lgyy","name":"蓝光影院〔ts〕","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"b2e573ff040fcd54b50475660ee1a7d1","jar":"./JAR/cs.jar"},
+
+{"key":"csp_Lgyy","name":"蓝光影院〔SP〕","type":"3","api":"csp_Lgyy","searchable":"1","quickSearch":"1","filterable":"1"},
 
 {"key":"csp_Paper","name":"小纸条〔SP〕","type":3,"api":"csp_Paper","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "./JS/lib/token.txt"},
 
