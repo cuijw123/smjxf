@@ -532,7 +532,7 @@
 {"key":"drpy_js_大豆","name":"影视┃大豆高清[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/大豆.js"},
 {"key":"drpy_js_爱弹幕","name":"动漫┃爱弹幕[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/爱弹幕.js"},
 {"key":"drpy_js_看韩剧","name":"影视┃看韩剧[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/看韩剧.js"},
-{"key":"drpy_js_在线之家2","name":"影视┃在线之家2[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/js_zxzjmtv.js"},
+{"key":"drpy_js_在线之家2","name":"影视┃在线之家2[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/在线之家Ⅱ.js"},
 {"key":"drpy_js_哔哩兔","name":"影视┃哔哩兔[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/js_哔哩兔.js"},
 {"key":"drpy_js_喜马拉雅","name":"小说┃喜马拉雅[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/js_喜马拉雅.js"},
 {"key":"drpy_js_幻听网","name":"小说┃幻听网[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/js_幻听网听书.js"},
