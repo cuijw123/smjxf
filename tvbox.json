@@ -362,12 +362,6 @@
 //JS
 {"key":"drpy_js_我的哔哩","name":"我的哔哩[js]","type":3,"api":"./JS/lib/drpy.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"./JS/js/我的哔哩.js"},
 {"key":"AList","name":"Alist[jar]","type":3,"api":"csp_AList","ext":"./JS/js/alistjar.json"},
-{"key":"drpy_js_Alist","name":"Alist[js]","type":3,"api":"./JS/lib/alist.min.js","ext":"./JS/js/alist.json"},
-{"key":"纸条","name":"纸条","type":3,"api":"csp_Paper","ext":"./JS/lib/token.txt"},
-{"key":"易搜","name":"易搜","type":3,"api":"csp_YiSo","ext":"./JS/lib/token.txt"},
-{"key":"盘搜","name":"盘搜","type":3,"api":"csp_PanSou","ext":"./JS/lib/token.txt"},
-{"key":"UP云搜","name":"UP云搜","type":3,"api":"csp_UpYun","ext":"./JS/lib/token.txt"},
-{"key":"找資源","name":"找資源","type":3,"api":"csp_Zhaozy","ext":"./JS/lib/token.txt"},
 {"key":"drpy_js_360影视","name":"官源┃360[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/360影视.js"},
 {"key":"drpy_js_奇珍异兽","name":"官源┃爱奇艺[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/奇珍异兽.js"},
 {"key":"drpy_js_优酷","name":"官源┃优酷[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/优酷.js"},
@@ -449,7 +443,7 @@
 {"key":"drpy_js_大米星球","name":"影视┃大米星球[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/大米星球.js"},
 {"key":"drpy_js_大师兄影视","name":"影视┃大师兄影视[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/大师兄影视.js"},
 {"key":"drpy_js_大猪蹄子","name":"影视┃大猪蹄子[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/大猪蹄子.js"},
-{"key":"drpy_js_碟调影视","name":"影视┃碟调影视[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/碟调影视.js"},
+//有xx{"key":"drpy_js_碟调影视","name":"影视┃碟调影视[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/碟调影视.js"},
 {"key":"drpy_js_多瑙影视","name":"影视┃多瑙影视[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/多瑙影视.js","playerType":"2"},
 {"key":"drpy_js_番茄影视","name":"影视┃番茄影视[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/番茄影视.js"},
 {"key":"drpy_js_浮生半日","name":"影视┃浮生半日[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/浮生半日.js"},
@@ -563,13 +557,20 @@
 
 //{"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"676d915af62243a68674a709b3eac5d8","jar":"./JAR/qj231121.jar"}
 
-{"key":"PanSou","name":"盘搜","type":3,"api":"csp_PanSou","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "./JS/lib/token.txt"},
+{"key":"drpy_js_Alist","name":"Alist[js]","type":3,"api":"./JS/lib/alist.min.js","ext":"./JS/js/alist.json"},
+{"key":"纸条","name":"纸条","type":3,"api":"csp_Paper","ext":"./JS/lib/token.txt"},
+{"key":"易搜","name":"易搜","type":3,"api":"csp_YiSo","ext":"./JS/lib/token.txt"},
+{"key":"盘搜","name":"盘搜","type":3,"api":"csp_PanSou","ext":"./JS/lib/token.txt"},
+{"key":"UP云搜","name":"UP云搜","type":3,"api":"csp_UpYun","ext":"./JS/lib/token.txt"},
+{"key":"找資源","name":"找資源","type":3,"api":"csp_Zhaozy","ext":"./JS/lib/token.txt"},
 
-{"key":"YiSo","name":"易搜","type":3,"api":"csp_YiSo","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "./JS/lib/token.txt"},
+// {"key":"PanSou","name":"盘搜","type":3,"api":"csp_PanSou","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "./JS/lib/token.txt"},
 
-{"key":"UpYun","name":"Up云搜","type":3,"api":"csp_UpYun","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "./JS/lib/token.txt"},
+// {"key":"YiSo","name":"易搜","type":3,"api":"csp_YiSo","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "./JS/lib/token.txt"},
 
-{"key":"Zhaozy","name":"找资源","type":3,"api":"csp_Zhaozy","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "./JS/lib/token.txt"},
+// {"key":"UpYun","name":"Up云搜","type":3,"api":"csp_UpYun","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "./JS/lib/token.txt"},
+
+// {"key":"Zhaozy","name":"找资源","type":3,"api":"csp_Zhaozy","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "./JS/lib/token.txt"},
 
 {"key":"csp_bendi","name":"本地文件(打开存储权限)","type":3,"api":"csp_LocalFile","searchable":1,"quickSearch":1,"filterable":1,"type_flag":1},
 
