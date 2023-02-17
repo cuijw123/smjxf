@@ -10,7 +10,7 @@
 
 //by{"key":"drpy_js_baby","name":"💖张梓晨💖宝宝动漫库 😙","type":3,"api":"./JS/lib/alist.min.js","ext":"./JS/js/baby.json"},
 
-{"key":"T4_douban","name":"豆瓣推荐(T4)","type":4,"api":"https://t4.饭太硬.ml/vod","searchable":1,"quickSearch":1,"filterable":1},
+//by{"key":"T4_douban","name":"豆瓣推荐(T4)","type":4,"api":"https://t4.饭太硬.ml/vod","searchable":1,"quickSearch":1,"filterable":1},
 
 //by{"key":"T4_douban","name":"豆瓣推荐(T4)","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=0c55c9f1c5cb4327ae2e51423276bb1e","searchable":0,"quickSearch":0,"filterable":1},
 

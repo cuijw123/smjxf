@@ -1,6 +1,5 @@
 {
-// "spider":"./JAR/Yoursmile.jarr",
-"spider":"./JAR/smjcxf.jar",
+"spider":"./JAR/duo.jar",
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=./TV/live.txt"]}]}],
 "wallpaper":"http://maoyingshi.cc/api.php",
 
@@ -10,13 +9,13 @@
 
 //by{"key":"drpy_js_baby","name":"💖张梓晨💖宝宝动漫库 😙","type":3,"api":"./JS/lib/alist.min.js","ext":"./JS/js/baby.json"},
 
-{"key":"T4_douban","name":"豆瓣推荐(T4)","type":4,"api":"https://t4.饭太硬.ml/vod","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"T4_douban","name":"豆瓣推荐(T4)","type":4,"api":"https://t4.饭太硬.ml/vod","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"csp_GitCafe", "name": "小纸条①〔SP〕","type":3,"api":"csp_Gitcafe","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./JS/lib/token.txt"},
 
 {"key":"csp_Paper","name":"小纸条②〔SP〕","type":3,"api":"csp_Paper","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "./JS/lib/token.txt"},
 
-{"key":"csp_Alist1","name":"网盘合集(SP)","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":1,"jumpDetail":0,"reversePlay":0,"enable":1,"ext":"./xBPQ/Alist1.json"},
+//{"key":"csp_Alist1","name":"网盘合集(SP)","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":1,"jumpDetail":0,"reversePlay":0,"enable":1,"ext":"./xBPQ/Alist1.json"},
 
 //{"key":"Yisou","name":"易搜","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":1,"ext":"676d915af62243a68674a709b3eac5d8","jar":"./JAR/qj231121.jar"},
 
