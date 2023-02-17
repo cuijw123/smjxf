@@ -2,7 +2,7 @@
 "urls": [
 {"url": "","name": "请点击下方线路观看"},
 {
-"url":"https://raw.iqiq.io/smjxf/box/main/juyou.json",
+"url":"https://ghproxy.com/https://raw.githubusercontent.com/smjxf/box/main/juyou.json",
 "name": "💖Smj.Love.C💖 线路"
 },
 {
@@ -74,7 +74,7 @@
 "name": "二哈线路"
 },
 {
-"url": "https://raw.iqiq.io/2hacc/TVBox/main/tvbox",
+"url": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/tvbox",
 "name": "二哈备用线路"
 },
 {
@@ -104,7 +104,7 @@
 ],
 "vip": [
 {
-"url": "https://raw.iqiq.io/smjxf/box/main/vip.json",
+"url": "https://ghproxy.com/https://raw.githubusercontent.com/smjxf/box/main/vip.json",
 "name": "VIP"
 }
 ]
