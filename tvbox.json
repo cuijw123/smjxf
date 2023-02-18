@@ -8,7 +8,7 @@
 
 {"key":"drpy_js_豆瓣","name":"💖Smj.Love.C💖 影视推荐","type":3,"api":"./JS/lib/drpy.min.js","ext":"./JS/js/drpy.js"},
 
-{"key":"drpy_js_baby","name":"💖张梓晨💖宝宝动漫库 😙","type":3,"api":"./JS/lib/alist.min.js","ext":"./JS/js/baby.json"},
+{"key":"drpy_js_baby","name":"💖张梓晨💖宝宝动漫库 😙","type":3,"api":"./JS/lib/alist.baby.js","ext":"./JS/js/baby.json"},
 
 
 //by{"key":"T4_douban","name":"豆瓣推荐(T4)","type":4,"api":"https://t4.饭太硬.ml/vod","searchable":1,"quickSearch":1,"filterable":1},
@@ -727,7 +727,7 @@
         {
           "name": "星辰云解析",
           "type": 1,
-          "url": "https://json.xn--9kq078cdn3a.cc/api/?key=694138485bf1110c147f85d92e86edc3&url=",
+          "url": "http://xn--wnup5g.xn--z7x900a.love:63/Art/analysis.php?v=",
           "ext": {
             "flag": [
               "qq",
@@ -846,8 +846,8 @@
   }
 },
   {
-    "name": "13号线",
-    "type": 1,
+    "name": "综合/B站",
+    "type": 0,
     "url": "https://jx.bozrc.com:4433/player/?url=",
     "ext": {
       "flag": [
