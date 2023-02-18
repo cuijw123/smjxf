@@ -24,7 +24,7 @@
 
 {"key":"py_libvio","name":"LIBVIO(PY)","type":3,"api":"py_libvio","searchable":0,"quickSearch":0,"filterable":1,"ext":"./plugin/pylibvio.py"},
 
-{"key":"csp_GitCafe", "name": "小纸条①〔SP〕","type":3,"api":"csp_Gitcafe","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./JS/lib/token.txt"},
+{"key":"csp_GitCafe", "name": "小纸条①〔SP〕","type":3,"api":"csp_Gitcafe","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./JS/lib/token.txt","jar": "./jar/xzt.jar"},
 
 {"key":"csp_Paper","name":"小纸条②〔SP〕","type":3,"api":"csp_Paper","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "./JS/lib/token.txt"},
 
