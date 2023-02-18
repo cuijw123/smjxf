@@ -547,6 +547,10 @@
 {"key":"drpy_js_兄弟影视","name":"影视┃兄弟影视[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/兄弟影视.js"},
 {"key":"drpy_js_无名小站","name":"影视┃无名小站[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/无名小站.js"},
 {"key":"drpy_js_快看","name":"影视┃快看[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/快看.js"},
+{"key":"drpy_js_NT动漫","name":"动漫┃NT动漫[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/NT动漫.js"},
+{"key":"drpy_js_小猫咪","name":"影视┃小猫咪[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/小猫咪.js"},
+{"key":"drpy_js_小宝影院[飞]","name":"影视┃小宝影院[飞][js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/小宝影院[飞].js"},
+{"key":"drpy_js_唐人街影视[飞]","name":"影视┃唐人街影视[飞][js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/唐人街影视[飞].js"},
 
 
 
