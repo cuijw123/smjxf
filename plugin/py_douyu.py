@@ -18,17 +18,8 @@ class Spider(Spider):
 		result = {}
 		cateManual = {
 			"热门游戏": "热门游戏",
-			"一起看": "一起看",
 			"主机游戏": "主机游戏",
-			"原创IP": "原创IP",
-			"王者荣耀":"王者荣耀",
-			"英雄联盟":"英雄联盟",
-			"第五人格":"第五人格",
-			"火影忍者":"火影忍者",
-			"和平精英":"和平精英",
-			"DOTA2":"DOTA2",
-			"CF手游":"CF手游"
-			
+			"原创IP": "原创IP"
 		}
 		classes = []
 		for k in cateManual:
@@ -56,7 +47,7 @@ class Spider(Spider):
 			aid = (vod['roomId']).strip()
 			title = vod['roomName'].strip()
 			img = vod['roomPic'].strip()
-			remark = (vod['categoryName']).strip()
+			remark = (vod['ownerName']).strip()
 			videos.append({
 				"vod_id": aid,
 				"vod_name": title,
@@ -108,14 +99,15 @@ class Spider(Spider):
 		return result
 	def playerContent(self,flag,id,vipFlags):
 		result = {}
-
 		url = 'http://live.yj1211.work/api/live/getRealUrl?platform=douyu&roomId={0}'.format(id)
 		rsp = self.fetch(url)
 		jRoot = json.loads(rsp.text)
-		jo = jRoot['data']
-		ja = jo['OD']
-		url = ja
-
+		if len(jRoot['data']) == 0:
+			url = ''
+		else:
+			jo = jRoot['data']
+			ja = jo['OD']
+			url = ja
 		result["parse"] = 0
 		result["playUrl"] = ''
 		result["url"] = url
