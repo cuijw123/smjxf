@@ -13,7 +13,7 @@
     "name":"💖Smj.Love.C💖 线路2️⃣"
     },
     {
-    "url":"https://ghproxy.com/https://raw.githubusercontent.com/smjxf/box/main/tvbox.json",
+    "url":"https://cdn.jsdelivr.net/gh/smjxf/box@main/tvbox.json",
     "name":"💖Smj.Love.C💖 线路3️⃣"
     },
     {
@@ -31,10 +31,6 @@
     {
     "url":"https://raw.fastgit.org/smjxf/box/main/tvbox.json",
     "name":"💖Smj.Love.C💖 线路7️⃣"
-    },
-    {
-     "url":"https://cdn.jsdelivr.net/gh/smjxf/box@main/tvbox.json",
-    "name":"💖Smj.Love.C💖线路 8️⃣"
     }
     ],
     "vip": [
