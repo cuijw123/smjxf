@@ -23,7 +23,7 @@
 
 {"key":"csp_Kunyu77","name":"酷云七七〔SP〕","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 
-//{"key":"csp_Lib","name":"LIBVIO〔SP〕","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://libvio.me"},
+{"key":"csp_Lib","name":"LIBVIO〔SP〕","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://libvio.me"},
 
 {"key":"py_libvio","name":"LIBVIO(PY)","type":3,"api":"py_libvio","searchable":0,"quickSearch":0,"filterable":1,"ext":"./plugin/pylibvio.py"},
 
@@ -46,6 +46,10 @@
 {"key":"csp_BuLei","name":"布雷影院〔SP〕","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"m3u8ads": "wan1.51img1.com"},
 
 {"key":"csp_Nmys","name":"农民影视〔SP〕","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XP/nongminyingshi.json"},
+
+{"key":"csp_YQKAPP","name":"一起看TV〔SP〕","type":3,"api":"csp_YQKAPP","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-tx.shumaxc.xyz"},
+
+{"key":"csp_Yht","name":"荷塘影院〔SP〕","type":3,"api":"csp_Yht","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yehetang.cc"},
 
 {"key":"csp_xB_555电影","name":"555电影(XB)","type":"3","api":"csp_xB","searchable":"1","quickSearch":"1","filterable":"1","ext":"./JS/XB/555电影.json"},
 
