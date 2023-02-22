@@ -1,7 +1,5 @@
-
-
    {
-	"spider": "https://download.kstore.space/download/2883/0113t.jar;md5;04B747FECDF0AD9BAB5427ABF5EA24C9",
+	"spider": "./JAR/smjcxf.jar",
 	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
   "lives": [
 {"group": "🇨🇳•欣赏","channels": [
