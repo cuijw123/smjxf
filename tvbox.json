@@ -60,7 +60,9 @@
 
 {"key":"csp_Lezhu","name":"乐猪影视〔SP〕","api":"csp_Lezhu","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 
-{"key":"csp_Bttoo","name":"两个BT〔SP〕","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
+// {"key":"csp_Bttoo","name":"两个BT〔SP〕","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
+
+{"key":"csp_Btwtoo","name":"两个BT〔SP〕","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"csp_Auete","name":"Auete〔SP〕","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 
