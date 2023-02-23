@@ -7,8 +7,6 @@
 
 {"key":"drpy_js_豆瓣","name":"💖Smj.Love.C💖 影视推荐","type":3,"api":"./JS/lib/drpy.min.js","ext":"./JS/js/drpy.js"},
 
-{"key":"drpy_js_baby","name":"💖张梓晨💖宝宝动漫库 😙","type":3,"api":"./JS/lib/alistbaby.js","ext":"./JS/js/baby.json"},
-
 {"key":"drpy_js_baby1","name":"💖张梓晨💖宝宝动漫库 😙","type":3,"api":"./JS/lib/alist.min.js","ext":"./JS/js/baby.json"},
 
 //by{"key":"T4_douban","name":"豆瓣推荐(T4)","type":4,"api":"https://t4.饭太硬.ml/vod","searchable":1,"quickSearch":1,"filterable":1},
@@ -25,7 +23,7 @@
 
 {"key":"py_libvio","name":"LIBVIO(PY)","type":3,"api":"py_libvio","searchable":0,"quickSearch":0,"filterable":1,"ext":"./plugin/pylibvio.py"},
 
-{"key":"csp_GitCafe", "name": "小纸条①〔SP〕","type":3,"api":"csp_Gitcafe","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./JS/lib/token.txt","jar": "./jar/xzt.jar"},
+{"key":"csp_GitCafe", "name": "小纸条①〔SP〕","type":3,"api":"csp_Gitcafe","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./JS/lib/token.txt"},
 
 {"key":"csp_Paper","name":"小纸条②〔SP〕","type":3,"api":"csp_Paper","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "./JS/lib/token.txt"},
 
@@ -41,15 +39,17 @@
 
 {"key":"csp_LiteApple","name":"小苹果〔SP〕","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"csp_BuLei","name":"布雷影院〔SP〕","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"m3u8ads": "wan1.51img1.com"},
+{"key":"csp_BuLei","name":"布雷影院〔SP〕","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"m3u8ads": "https://www.bulei.cc"},
 
 {"key":"csp_Nmys","name":"农民影视〔SP〕","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XP/nongminyingshi.json"},
 
 {"key":"csp_YQKAPP","name":"一起看TV〔SP〕","type":3,"api":"csp_YQKAPP","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-tx.shumaxc.xyz"},
 
+{"key": "csp_Yht","name":"野荷塘〔SP〕","type": 3, "api": "csp_Yht", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://yehetang.cc" },
+
 {"key":"csp_Yht","name":"荷塘影院〔SP〕","type":3,"api":"csp_Yht","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yehetang.cc"},
 
-{"key":"csp_xB_555电影","name":"555电影(XB)","type":"3","api":"csp_xB","searchable":"1","quickSearch":"1","filterable":"1","ext":"./JS/XB/555电影.json"},
+{"key":"csp_555电影","name":"555电影", "type": 3, "api": "csp_Ys555", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://www.555dyy1.com" },
 
 {"key":"csp_Kuaikan","name":"快看〔SP〕","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 
@@ -58,8 +58,6 @@
 {"key":"csp_Xinsj","name":"新视觉〔SP〕","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"csp_Lezhu","name":"乐猪影视〔SP〕","api":"csp_Lezhu","type":3,"filterable":1,"quickSearch":1,"searchable":1},
-
-// {"key":"csp_Bttoo","name":"两个BT〔SP〕","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"csp_Btwtoo","name":"两个BT〔SP〕","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1},
 
@@ -74,8 +72,6 @@
 {"key":"csp_QQ","name":"腾讯视频〔SP〕","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"csp_SP360","name":"360〔SP〕","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
-
-//{"key":"csp_Tkys","name":"天空影视〔SP〕","type":3,"api":"csp_Tkys","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"csp_sp龙门", "name": "龙门影视〔SP〕", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "http://dy.hm.iqinu.com:88/lm_api.php/v1.vod" },	
 
@@ -120,7 +116,6 @@
 {"key":"Tbook","name":"听书网〔SP〕","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"d16d1517e9eaad9909cb35c55ba0b784","jar":"./JAR/cs.jar"},
 
 {"key":"csp_Alist1","name":"网盘合集(SP)","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":1,"jumpDetail":0,"reversePlay":0,"enable":1,"ext":"./xBPQ/Alist1.json"},
-
 //xBPQ
 {"key":"新视觉影院","name":"新视觉影院","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/新视觉影院.json"},
 
@@ -368,6 +363,9 @@
 
 
 //{"key":"csp_XYQHiker_氢视频","name":"氢视频(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XYQH/氢视频.json"},
+
+//XB
+{"key":"csp_xB_555电影","name":"555电影(XB)","type":"3","api":"csp_xB","searchable":"1","quickSearch":"1","filterable":"1","ext":"./JS/XB/555电影.json"},
 
 
 //JS

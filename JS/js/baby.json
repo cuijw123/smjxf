@@ -1,4 +1,5 @@
-[
+{
+  "drives":[
         {
         "name" : " 🚓旋风战车队 ",
         "server" : "http://pan.smjc.cc",
@@ -56,4 +57,4 @@
         "search": true
     }
 ]
-
+}
