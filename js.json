@@ -7,7 +7,6 @@
 {"key":"drpy_js_豆瓣","name":"💖Smj.Love.C💖 影视推荐","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/drpy.js"},
 //{"key":"drpy_js_baby","name":"💖张梓晨💖宝宝动漫库 👶","type":3,"api":"./JS/lib/alist.min.js","ext":"./JS/js/baby.json"},
 {"key":"drpy_js_哔哩音乐","name":"哔哩音乐[jar]","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"./JS/js/音乐演唱.json"},
-//JS
 
 //JS
 {"key":"drpy_js_我的哔哩","name":"我的哔哩[js]","type":3,"api":"./JS/lib/drpy.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"./JS/js/我的哔哩.js"},
@@ -198,7 +197,7 @@
 {"key":"drpy_js_小宝影院[飞]","name":"影视┃小宝影院[飞][js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/小宝影院[飞].js"},
 {"key":"drpy_js_唐人街影视[飞]","name":"影视┃唐人街影视[飞][js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/唐人街影视[飞].js"},
 {"key":"drpy_js_萌番","name":"动漫┃萌番[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/萌番.js"},
-{"key":"drpy_js_NY影院","name":"影视┃NY影院[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/NY影院.js"},
+//有XX{"key":"drpy_js_NY影院","name":"影视┃NY影院[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/NY影院.js"},
 {"key":"drpy_js_粤爱看","name":"影视┃粤爱看[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/粤爱看.js"},
 {"key":"drpy_js_91free","name":"影视┃91free[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/91free.js"},
 {"key":"drpy_js_A8音乐","name":"音乐┃A8音乐[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/A8音乐.js"},
@@ -212,7 +211,6 @@
 {"key":"盘搜","name":"盘搜","type":3,"api":"csp_PanSou","ext":"./JS/lib/token.txt"},
 {"key":"UP云搜","name":"UP云搜","type":3,"api":"csp_UpYun","ext":"./JS/lib/token.txt"},
 {"key":"找資源","name":"找資源","type":3,"api":"csp_Zhaozy","ext":"./JS/lib/token.txt"},
-
 // {"key":"PanSou","name":"盘搜","type":3,"api":"csp_PanSou","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "./JS/lib/token.txt"},
 
 // {"key":"YiSo","name":"易搜","type":3,"api":"csp_YiSo","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "./JS/lib/token.txt"},
