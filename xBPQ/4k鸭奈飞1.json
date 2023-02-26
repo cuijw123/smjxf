@@ -1,5 +1,5 @@
 {
-"作者":"",
+"作者":"Smj.Love.C",
 "站名": "4k鸭奈飞影视",
 "主页url": "https://www.i4k.cc/",
 "二次截取":"class=\"main\">&&<div id=\"page\">",
@@ -7,21 +7,23 @@
 "图片":"data-original=\"&&\"",
 "标题":"alt=\"&&\"",
 "链接":"href=\"&&\"",
+
+
 "副标题":"class=\"module-item-note\">&&</div>",
-"搜索url": "/index.php/search/page/{catePg}/wd/{wd}.html",
+"搜索url": "https://www.i4k.cc/index.php/search.html?wd={wd}",
 "搜索模式": "1",
-"搜索二次截取": "class=\"main\">&&<div id=\"page\">",
-"搜索数组":"<a&&module-card-item-info",
+"搜索二次截取": "",
+"搜索数组":"<div class=\"module-card-item&&no-referrer",
 "搜索图片":"data-original=\"&&\"",
 "搜索标题":"alt=\"&&\"",
 "搜索链接":"href=\"&&\"",
-"搜索副标题":"<div class=\"module-item-note\">&&</div>",
-"搜索后缀":"/detail/",
-"搜索链接前缀": "https://www.i4k.cc",
+"搜索副标题":"module-item-note\">&&</div>",
+//"搜索后缀":"/voddetail/",
+//"搜索链接前缀": "https://www.i4k.cc",
 "线路数组": "class=\"module-tab-item&&</div>",
 "线路标题": "<span>&&</small>",
 "播放数组":"class=\"module-play-list&&</div>",
-"影片类型":"<div class=\"module-info-play\">&&立即播放",
+//"影片类型":"<div class=\"module-info-tag\">&&立即播放",
 "导演":"导演：</span>&&</div>",
 "主演":"主演：</span>&&</div>",
 "简介":"<p>&&</p>",
@@ -30,6 +32,8 @@
 "播放链接":"href=\"&&\"",
 "免嗅":"0",
 "分类": "电影$1#电视剧$2#动漫$4#综艺$3#纪录片$101",
+
+
 
 "分类url":"https://www.i4k.cc/index.php/show/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/page/{catePg}/year/{year}.html",
 "筛选":{
