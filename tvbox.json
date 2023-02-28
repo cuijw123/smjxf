@@ -283,6 +283,9 @@
 
 {"key":"csp_xBPQ_大豆高清","name":"大豆高清","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/大豆网.json"},
 
+{"key":"csp_xBPQ_爱影视","name":"爱影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/爱影视.json"},
+
+{"key":"csp_xBPQ_91影院","name":"91影院","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/91影院.json"},
 
 //采集
 //{"key":"忆梦","name":"忆梦〔官源〕","type":1,"api":"http://anltv.cn/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["国产剧","港台剧","日韩剧","欧美剧","电影(B站)","电视剧(B站)","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","犯罪片","悬疑片","惊悚片","奇幻片","冒险片","武侠片","动漫画","动画","番剧(B站)","国创(B站)","综艺","记录片(B站)","纪录片/微电影"]},
@@ -541,7 +544,16 @@
 {"key":"drpy_js_91free","name":"影视┃91free[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/91free.js"},
 {"key":"drpy_js_A8音乐","name":"音乐┃A8音乐[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/A8音乐.js"},
 {"key":"drpy_js_零度影视","name":"影视┃零度影视[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/零度影视.js"},
-// {"key":"drpy_js_4k鸭奈飞","name":"影视┃4k鸭奈飞[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/4k鸭奈飞.js"},
+{"key":"drpy_js_六度TV","name":"影视┃六度TV[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/六度TV.js"},
+{"key":"drpy_js_去看吧","name":"动漫┃去看吧[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/去看吧.js"},
+{"key":"drpy_js_曲奇动漫","name":"动漫┃曲奇动漫[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/曲奇动漫.js"},
+{"key":"drpy_js_小宝影视","name":"影视┃小宝影视[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/小宝影视.js"},
+{"key":"drpy_js_六月听书","name":"小说┃六月听书[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/六月听书.js"},
+{"key":"drpy_js_博看听书","name":"小说┃博看听书[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/博看听书.js"},
+{"key":"drpy_js_爱看影院","name":"影视┃爱看影院[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/爱看影院.js"},
+{"key":"drpy_js_稀饭影视","name":"影视┃稀饭影视[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/稀饭影视.js"},
+
+
 
 
 {"key":"drpy_js_Alist","name":"Alist[js]","type":3,"api":"./JS/lib/alist.min.js","ext":"./JS/js/alist.json"},
