@@ -19,7 +19,7 @@
 
 {"key":"bili","name":"哔哩音乐[jar]","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"./JS/js/音乐演唱.json"},
 
-{"key":"csp_Kunyu77","name":"酷云七七〔SP〕","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Kunyu77","name":"酷云七七〔SP〕","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"./JAR/qj230217.jar"},
 
 {"key":"csp_Lib","name":"LIBVIO〔SP〕","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://libvio.me"},
 
@@ -45,7 +45,7 @@
 
 {"key":"csp_Nmys","name":"农民影视〔SP〕","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XP/nongminyingshi.json"},
 
-{"key":"csp_YQKAPP","name":"一起看TV〔SP〕","type":3,"api":"csp_YQKAPP","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-tx.shumaxc.xyz"},
+{"key":"csp_YQKAPP","name":"一起看TV〔SP〕","type":3,"api":"csp_YQKAPP","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-tx.shumaxc.xyz","jar":"./JAR/qj230217.jar"},
 
 {"key": "csp_Yht","name":"野荷塘〔SP〕","type": 3, "api": "csp_Yht", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://yehetang.cc" },
 
