@@ -15,8 +15,11 @@
         }
     },
     {
-        "name": "梵天",
-        "server": "https://iemo.fun"
+        "name": " 🦕恐龙时代 ",
+        "server": "http://pan.smjc.cc",
+        "startPage": "/自用/动画片/恐龙时代",
+        "showAll": false,
+        "search": true
     },
     {
         "name": "蓝魔",
