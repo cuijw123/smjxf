@@ -7,7 +7,7 @@
 
 {"key":"drpy_js_猫了个咪","name":"猫了个咪[DRPY18]","type":3,"api":"./JS/lib/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./JS/js/18/猫了个咪.js"},
 
-{"key":"drpy_js_吸瓜","name":"吸瓜[DRPY18]","type":3,"api":"./JS/lib/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./JS/js/18/吸瓜.js"},
+// {"key":"drpy_js_吸瓜","name":"吸瓜[DRPY18]","type":3,"api":"./JS/lib/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./JS/js/18/吸瓜.js"},
 
 {"key":"drpy_js_黄瓜TV","name":"黄瓜TV[DRPY18]","type":3,"api":"./JS/lib/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./JS/js/18/黄瓜TV.js"},
 
@@ -196,16 +196,6 @@
 {"key":"*番号资源","name":"*番号资源","type":1,"api":"http://fhapi9.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"*鲨鱼资源","name":"*鲨鱼资源","type":1,"api":"https://shayuapi.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"*速度资源","name":"*速度资源","type":0,"api":"http://www.ggmmzy.com:9999/inc/xml","searchable":0,"quickSearch":0},
-
-//{"key":"Yisou","name":"易搜","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":1,"ext":"676d915af62243a68674a709b3eac5d8","jar":"./JAR/qj231121.jar"},
-
-//{"key":"AliPanSou","name":"盘搜","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":1,"ext":"676d915af62243a68674a709b3eac5d8","jar":"./JAR/qj231121.jar"},
-
-//{"key":"UPanSo","name":"优盘搜","type":3,"api":"csp_UPanSo","searchable":1,"quickSearch":1,"filterable":1,"ext":"676d915af62243a68674a709b3eac5d8","jar":"./JAR/qj231121.jar"},
-
-//{"key":"FindZY","name":"找资源","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":1,"ext":"676d915af62243a68674a709b3eac5d8","jar":"./JAR/qj231121.jar"},
-
-//{"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"676d915af62243a68674a709b3eac5d8","jar":"./JAR/qj231121.jar"}
 
 {"key":"PanSou","name":"盘搜","type":3,"api":"csp_PanSou","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"},
 
