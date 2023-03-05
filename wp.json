@@ -7,16 +7,10 @@
 
 {"key":"drpy_js_豆瓣","name":"💖Smj.Love.C💖 影视推荐","type":3,"api":"./JS/lib/drpy.min.js","ext":"./JS/js/drpy.js"},
 
-//by{"key":"drpy_js_baby","name":"💖张梓晨💖宝宝动漫库 😙","type":3,"api":"./JS/lib/alist.min.js","ext":"./JS/js/baby.json"},
+{"key":"drpy_js_baby","name":"💖张梓晨💖宝宝动漫库 😙","type":3,"api":"./JS/lib/alist.min.js","ext":"./JS/js/baby.json"},
 
 //{"key":"T4_douban","name":"豆瓣推荐(T4)","type":4,"api":"https://t4.饭太硬.ml/vod","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"csp_GitCafe", "name": "小纸条①〔SP〕","type":3,"api":"csp_Gitcafe","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1, "ext": "./JS/lib/token.txt"},
-
-{"key":"csp_Paper","name":"小纸条②〔SP〕","type":3,"api":"csp_Paper","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "./JS/lib/token.txt"},
-
-
-//{"key":"drpy_js_Alist","name":"Alist[js]","type":3,"api":"./JS/lib/alist.min.js","ext":"./JS/js/alist.json"},
 {"key":"纸条","name":"纸条","type":3,"api":"csp_Paper","ext":"./JS/lib/token.txt","jar":"./JAR/custom_spider.jar"},
 {"key":"易搜","name":"易搜","type":3,"api":"csp_YiSo","ext":"./JS/lib/token.txt","jar":"./JAR/custom_spider.jar"},
 {"key":"盘搜","name":"盘搜","type":3,"api":"csp_PanSou","ext":"./JS/lib/token.txt","jar":"./JAR/custom_spider.jar"},

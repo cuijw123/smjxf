@@ -9,8 +9,16 @@
         "name": "💖Smj.Love.C💖 自用"
     },
     {
+        "url": "https://box.smjc.cc/box/wp.json",
+        "name": "💖Smj.Love.C💖 网盘"
+    },
+    {
         "url": "https://ghproxy.com/https://raw.githubusercontent.com/smjxf/box/main/tvbox.json",
         "name": "💖Smj.Love.C💖 备用"
+    },
+    {
+        "url": "https://ghproxy.com/https://raw.githubusercontent.com/smjxf/box/main/tvbox.json",
+        "name": "💖Smj.Love.C💖 网盘备用"
     },
     {
         "url": "https://yydsys.top/duo/v.json",
