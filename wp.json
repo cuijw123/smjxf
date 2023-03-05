@@ -1,5 +1,5 @@
 {
-"spider":"./JAR/xzt.jar",
+"spider": "./JAR/smjcxf.jar",
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=./TV/live.txt"]}]}],
 "wallpaper":"http://maoyingshi.cc/api.php",
 
@@ -11,17 +11,17 @@
 
 //{"key":"T4_douban","name":"豆瓣推荐(T4)","type":4,"api":"https://t4.饭太硬.ml/vod","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"csp_GitCafe", "name": "小纸条①〔SP〕","type":3,"api":"csp_Gitcafe","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./JS/lib/token.txt"},
+{"key":"csp_GitCafe", "name": "小纸条①〔SP〕","type":3,"api":"csp_Gitcafe","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1, "ext": "./JS/lib/token.txt"},
 
 {"key":"csp_Paper","name":"小纸条②〔SP〕","type":3,"api":"csp_Paper","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "./JS/lib/token.txt"},
 
 
 //{"key":"drpy_js_Alist","name":"Alist[js]","type":3,"api":"./JS/lib/alist.min.js","ext":"./JS/js/alist.json"},
-{"key":"纸条","name":"纸条","type":3,"api":"csp_Paper","ext":"./JS/lib/token.txt"},
-{"key":"易搜","name":"易搜","type":3,"api":"csp_YiSo","ext":"./JS/lib/token.txt"},
-{"key":"盘搜","name":"盘搜","type":3,"api":"csp_PanSou","ext":"./JS/lib/token.txt"},
-{"key":"UP云搜","name":"UP云搜","type":3,"api":"csp_UpYun","ext":"./JS/lib/token.txt"},
-{"key":"找資源","name":"找資源","type":3,"api":"csp_Zhaozy","ext":"./JS/lib/token.txt"},
+{"key":"纸条","name":"纸条","type":3,"api":"csp_Paper","ext":"./JS/lib/token.txt","jar":"./JAR/custom_spider.jar"},
+{"key":"易搜","name":"易搜","type":3,"api":"csp_YiSo","ext":"./JS/lib/token.txt","jar":"./JAR/custom_spider.jar"},
+{"key":"盘搜","name":"盘搜","type":3,"api":"csp_PanSou","ext":"./JS/lib/token.txt","jar":"./JAR/custom_spider.jar"},
+{"key":"UP云搜","name":"UP云搜","type":3,"api":"csp_UpYun","ext":"./JS/lib/token.txt","jar":"./JAR/custom_spider.jar"},
+{"key":"找資源","name":"找資源","type":3,"api":"csp_Zhaozy","ext":"./JS/lib/token.txt","jar":"./JAR/custom_spider.jar"},
 
 {"key":"csp_bendi","name":"本地文件(打开存储权限)","type":3,"api":"csp_LocalFile","searchable":1,"quickSearch":1,"filterable":1,"type_flag":1},
 

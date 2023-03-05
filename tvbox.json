@@ -27,7 +27,7 @@
 
 {"key":"csp_GitCafe", "name": "小纸条①〔SP〕","type":3,"api":"csp_Gitcafe","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./JS/lib/token.txt","jar": "./JAR/xzt.jar"},
 
-{"key":"csp_Paper","name":"小纸条②〔SP〕","type":3,"api":"csp_Paper","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "./JS/lib/token.txt"},
+{"key":"csp_Paper","name":"小纸条②〔SP〕","type":3,"api":"csp_Paper","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "./JS/lib/token.txt","jar": "./JAR/xzt.jar"},
 
 // {"key":"csp_AppTT2","name":"图图影视〔SP〕","type":3,"api":"csp_AppTT2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://154.39.64.151:3311/$$$dlJYWXl2Z3cqbmlsV3JMdCNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbnl2Z3diKnpYUCNWWg=="},
 
@@ -587,12 +587,12 @@
 {"key":"drpy_js_抓饭体育","name":"体育┃抓饭体育[js]","type":3,"api":"./JS/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"./JS/js/抓饭体育.js"},
 
 
-//js 搜
+//
 {"key":"drpy_js_Alist","name":"Alist[js]","type":3,"api":"./JS/lib/alist.min.js","ext":"./JS/js/alist.json"},
-{"key":"易搜","name":"易搜","type":3,"api":"csp_YiSo","ext":"./JS/lib/token.txt"},
-{"key":"盘搜","name":"盘搜","type":3,"api":"csp_PanSou","ext":"./JS/lib/token.txt"},
-{"key":"UP云搜","name":"UP云搜","type":3,"api":"csp_UpYun","ext":"./JS/lib/token.txt"},
-{"key":"找資源","name":"找資源","type":3,"api":"csp_Zhaozy","ext":"./JS/lib/token.txt"},
+{"key":"易搜","name":"易搜","type":3,"api":"csp_YiSo","ext":"./JS/lib/token.txt","jar":"./JAR/custom_spider.jar"},
+{"key":"盘搜","name":"盘搜","type":3,"api":"csp_PanSou","ext":"./JS/lib/token.txt","jar":"./JAR/custom_spider.jar"},
+{"key":"UP云搜","name":"UP云搜","type":3,"api":"csp_UpYun","ext":"./JS/lib/token.txt","jar":"./JAR/custom_spider.jar"},
+{"key":"找資源","name":"找資源","type":3,"api":"csp_Zhaozy","ext":"./JS/lib/token.txt","jar":"./JAR/custom_spider.jar"},
 {"key":"csp_bendi","name":"本地文件(打开存储权限)","type":3,"api":"csp_LocalFile","searchable":1,"quickSearch":1,"filterable":1,"type_flag":1},
 {"key":"push_agent","name":"推送┃云盘┃磁力","type":3,"api":"csp_PushAgent","playerType":1,"searchable":0,"quickSearch":0,"filterable":0,"ext":"./JS/lib/token.txt","jar":"./JAR/cs.jar"}
 
