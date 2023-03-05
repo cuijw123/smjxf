@@ -1,7 +1,7 @@
 //未完成
 var rule={
-		title:'9U电影',
-		host:'https://www.jiketv.com',
+		title:'纸条',
+		host:'https://u.gitcafe.net/',
 		url:'/index.php/vodtype/show/id/fyclass/page/fypage.html',
  		searchUrl:'/index.php/vodtype/search/page/fypage/wd/**.html',
 		searchable:2,//是否启用全局搜索,
@@ -9,8 +9,8 @@ var rule={
 		filterable:0,//是否启用分类筛选,
 		//class_parse:'.nav-menu-items&&li;a&&Text;a&&href;.*/(.*?).html',
 	        //cate_exclude:'演员',
-	        class_name:'电影&电视剧&综艺&动漫',
-                class_url:'1&2&3&4',
+	    class_name:'电影&电视剧&综艺&动漫',
+        class_url:'1&2&3&4',
 		play_parse:true,
 		lazy:'',
 		limit:6,
