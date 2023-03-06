@@ -1,6 +1,7 @@
+//https://xindizhi.github.io/dyxs/   
 var rule = {
     title:'电影先生',
-    host:'http://dyxs20.com',
+    host:'http://dyxs29.com',
     // homeUrl:'/',
     url:'/pianku-fyclass--------fypage---/',
     searchUrl:'/search-**-----------fypage--/',
