@@ -1,7 +1,7 @@
 {
 "spider": "./JAR/smjcxf.jar",
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=./TV/live.txt"]}]}],
-"wallpaper":"http://maoyingshi.cc/api.php",
+"wallpaper":"http://maoyingshi.cc/api.php","warningText":"Smj.Love.C整理收集，切勿付费购买。",
 
 "sites":[
 
