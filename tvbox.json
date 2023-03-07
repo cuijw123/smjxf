@@ -3,13 +3,21 @@
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=./TV/live.txt"]}]}],
 "wallpaper":"http://maoyingshi.cc/api.php","warningText":"Smj.Love.C整理收集，切勿付费购买。",
 
+  "lives": [
+    {
+      "name": "live",
+      "type": 0,
+      "url": "https://yydsys.top/duo/txt/v.txt",
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }
+  ],
+
 "sites":[
 
 {"key":"drpy_js_豆瓣","name":"💖Smj.Love.C💖 影视推荐","type":3,"api":"./JS/lib/drpy.min.js","ext":"./JS/js/drpy.js"},
 
 {"key":"drpy_js_baby1","name":"💖张梓晨💖宝宝动漫库 😙","type":3,"api":"./JS/lib/alistbaby.js","ext":"./JS/js/baby.json"},
-
-// {"key":"csp_Alist2","name":"宝宝动漫库","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":1,"jumpDetail":0,"reversePlay":0,"enable":1,"ext":"./xBPQ/baby.json"},
 
 //by{"key":"T4_douban","name":"豆瓣推荐(T4)","type":4,"api":"https://t4.饭太硬.ml/vod","searchable":1,"quickSearch":1,"filterable":1},
 
@@ -25,21 +33,21 @@
 
 {"key":"py_libvio","name":"LIBVIO(PY)","type":3,"api":"py_libvio","searchable":0,"quickSearch":0,"filterable":1,"ext":"./plugin/pylibvio.py"},
 
-//纸条盘搜
+//纸条聚搜
 
 // {"key":"csp_Alist1","name":"网盘合集(SP)","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/Alist1.json"},
 
 //{"key":"csp_Alist1","name":"网盘合集(SP)","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":1,"jumpDetail":0,"reversePlay":0,"enable":1,"ext":"./xBPQ/Alist1.json"},
 
-{"key":"纸条","name":"纸条〔SP〕","type":3,"api":"csp_Paper","ext":"./JS/lib/token.txt","jar":"./JAR/20230306ail.jar"},
+{"key":"纸条","name":"纸条〔SP〕","type":3,"api":"csp_Paper","ext":"./JS/lib/token.txt"},
 
-{"key":"易搜","name":"易搜〔SP〕","type":3,"api":"csp_YiSo","ext":"./JS/lib/token.txt","jar":"./JAR/20230306ail.jar"},
+{"key":"易搜","name":"易搜〔SP〕","type":3,"api":"csp_YiSo","ext":"./JS/lib/token.txt"},
 
-{"key":"盘搜","name":"盘搜〔SP〕","type":3,"api":"csp_PanSou","ext":"./JS/lib/token.txt","jar":"./JAR/20230306ail.jar"},
+{"key":"盘搜","name":"盘搜〔SP〕","type":3,"api":"csp_PanSou","ext":"./JS/lib/token.txt"},
 
-{"key":"UP云搜","name":"UP云搜〔SP〕","type":3,"api":"csp_UpYun","ext":"./JS/lib/token.txt","jar":"./JAR/20230306ail.jar"},
+{"key":"UP云搜","name":"UP云搜〔SP〕","type":3,"api":"csp_UpYun","ext":"./JS/lib/token.txt"},
 
-{"key":"找資源","name":"找資源〔SP〕","type":3,"api":"csp_Zhaozy","ext":"./JS/lib/token.txt","jar":"./JAR/20230306ail.jar"},
+{"key":"找資源","name":"找資源〔SP〕","type":3,"api":"csp_Zhaozy","ext":"./JS/lib/token.txt"},
 
 // {"key":"csp_GitCafe", "name": "小纸条①〔SP〕","type":3,"api":"csp_Gitcafe","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./JS/lib/token.txt","jar": "./JAR/xzt.jar"},
 
