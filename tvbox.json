@@ -565,10 +565,12 @@
 {"key":"drpy_js_皮皮鸭","name":"影视┃皮皮鸭[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/皮皮鸭.js"},
 {"key":"drpy_js_飞飞影视","name":"影视┃飞飞影视[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/飞飞影视.js"},
 {"key":"drpy_js_秋霞影视","name":"影视┃秋霞影视[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/秋霞影视.js"},
+{"key":"drpy_js_萌蛋蛋[V2]","name":"影视┃萌蛋蛋[V2][js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/萌蛋蛋[V2].js"},
+{"key":"drpy_js_天空影视[V2]","name":"影视┃天空影视[V2][js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/天空影视[V2].js"},
+{"key":"drpy_js_555影视[V2][V2]","name":"影视┃555影视[V2][js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/555影视[V2].js"},
+
 
 // {"key":"drpy_js_名称","name":"影视┃名称[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/名称.js"},
-
-
 
 //js动漫
 {"key":"drpy_js_AnFuns","name":"动漫┃AnFuns[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/AnFuns.js"},
