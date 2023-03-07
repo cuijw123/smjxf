@@ -627,7 +627,10 @@
 
 //
 {"key":"csp_bendi","name":"本地文件(打开存储权限)","type":3,"api":"csp_LocalFile","searchable":1,"quickSearch":1,"filterable":1,"type_flag":1},
-{"key":"push_agent","name":"推送┃云盘┃磁力","type":3,"api":"csp_PushAgent","playerType":1,"searchable":0,"quickSearch":0,"filterable":0,"ext":"./JS/lib/token.txt","jar":"./JAR/cs.jar"}
+
+// {"key":"push_agent","name":"推送┃云盘┃磁力","type":3,"api":"csp_PushAgent","playerType":1,"searchable":0,"quickSearch":0,"filterable":0,"ext":"./JS/lib/token.txt","jar":"./JAR/cs.jar"}
+
+{"key":"push_agent","name":"推送┃云盘┃磁力","type":3,"api":"csp_Push","playerType":1,"searchable":0,"quickSearch":0,"filterable":0,"ext":"./JS/lib/token.txt","jar":"./JAR/cs.jar"}
 
 ],
 
