@@ -35,10 +35,6 @@
 
 //纸条聚搜
 
-// {"key":"csp_Alist1","name":"网盘合集(SP)","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/Alist1.json"},
-
-//{"key":"csp_Alist1","name":"网盘合集(SP)","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":1,"jumpDetail":0,"reversePlay":0,"enable":1,"ext":"./xBPQ/Alist1.json"},
-
 {"key":"纸条","name":"纸条〔SP〕","type":3,"api":"csp_Paper","ext":"./JS/lib/token.txt"},
 
 {"key":"易搜","name":"易搜〔SP〕","type":3,"api":"csp_YiSo","ext":"./JS/lib/token.txt"},
@@ -48,12 +44,6 @@
 {"key":"UP云搜","name":"UP云搜〔SP〕","type":3,"api":"csp_UpYun","ext":"./JS/lib/token.txt"},
 
 {"key":"找資源","name":"找資源〔SP〕","type":3,"api":"csp_Zhaozy","ext":"./JS/lib/token.txt"},
-
-// {"key":"csp_GitCafe", "name": "小纸条①〔SP〕","type":3,"api":"csp_Gitcafe","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./JS/lib/token.txt","jar": "./JAR/xzt.jar"},
-
-// {"key":"csp_Paper","name":"小纸条②〔SP〕","type":3,"api":"csp_Paper","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "./JS/lib/token.txt","jar": "./JAR/xzt.jar"},
-
-// {"key":"csp_AppTT2","name":"图图影视〔SP〕","type":3,"api":"csp_AppTT2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://154.39.64.151:3311/$$$dlJYWXl2Z3cqbmlsV3JMdCNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbnl2Z3diKnpYUCNWWg=="},
 
 { "key": "csp_AppTT", "name": "图图影视〔SP〕", "type": 3, "api": "csp_AppTT", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "tv$$$dlJYWW16R0IqbmlsV3JMdCNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbm16R0JiKnpYUCNWWg==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="},
 
