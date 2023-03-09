@@ -1,17 +1,26 @@
 {
 "spider":"./JAR/fan.jar",
-"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=./TV/live.txt"]}]}],
 "wallpaper":"http://maoyingshi.cc/api.php","warningText":"Smj.Love.C整理收集，切勿付费购买。",
-
-  "lives": [
-    {
-      "name": "live",
-      "type": 0,
-      "url": "https://yydsys.top/duo/txt/v.txt",
-      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    }
-  ],
+"lives": [
+  {
+    "group": "redirect",
+    "channels": [
+      {
+        "name": "redirect",
+        "urls": [
+          "proxy://do=live&type=txt&ext=./TV/live.txt"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "live",
+    "url": "https://box.smjc.cc/tv/tv.txt",
+    "type": 0,
+    "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+  }
+],
 
 "sites":[
 
