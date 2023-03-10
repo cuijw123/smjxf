@@ -324,6 +324,15 @@
 
 {"key":"csp_xBPQ_沙漏电影","name":"沙漏电影","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/沙漏电影.json"},
 
+{"key":"csp_xBPQ_豆巴影视","name":"豆巴影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/豆巴影视.json"},
+
+{"key":"csp_xBPQ_咕噜咕噜","name":"咕噜咕噜","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/咕噜咕噜.json"},
+
+{"key":"csp_xBPQ_B站影视","name":"B站影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/B站影视.json"},
+
+{"key":"csp_xBPQ_野马影视","name":"野马影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/野马影视.json"},
+
+
 //采集
 
 {"key":"量子","name":"采集┃量子","type":1,"api":"http://lzizy.net/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","记录片","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
