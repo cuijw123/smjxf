@@ -147,7 +147,7 @@
 
 // {"key":"csp_NiNi","name":"泥视频 墙外〔SP〕","type":3,"api":"csp_NiNi","searchable":1,"quickSearch":1,"filterable":1},
 
-{ "key": "csp_Hlsp", "name": "黑料影视", "type": 3, "api": "csp_Hlsp", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "./XB//黑料.json" },
+{ "key": "csp_Hlsp", "name": "黑料影视", "type": 3, "api": "csp_Hlsp", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "./Hlsp/黑料.json" },
 
 { "key": "csp_Nkdy", "name": "耐看〔SP〕", "type": 3, "api": "csp_Nkdy", "searchable": 1, "quickSearch": 1, "filterable": 1 },
 
