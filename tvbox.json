@@ -1,27 +1,7 @@
 {
 "spider":"./JAR/fan.jar",
 "wallpaper":"http://maoyingshi.cc/api.php","warningText":"Smj.Love.C整理收集，切勿付费购买!",
-
-"lives": [
-  {
-    "group": "redirect",
-    "channels": [
-      {
-        "name": "redirect",
-        "urls": [
-          "proxy://do=live&type=txt&ext=./TV/live.txt"
-        ]
-      }
-    ]
-  },
-  {
-    "name": "live",
-    "url": "https://box.smjc.cc/tv/tv.txt",
-    "type": 0,
-    "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
-  }
-],
+"lives": [ { "group": "redirect", "channels": [ { "name": "redirect", "urls": [ "proxy://do=live&type=txt&ext=./TV/live.txt" ] } ] }, { "name": "live", "url": "https://box.smjc.cc/tv/tv.txt", "type": 0, "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}", "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" } ],
 
 "sites":[
 
@@ -87,8 +67,6 @@
 
 { "key": "csp_fantuan", "name": "饭团影视〔SP〕", "type": 3, "api": "csp_Fantuan", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://www.fantuanhd.com" },
 
-// {"key":"csp_Lezhu","name":"乐猪影视〔SP〕","api":"csp_Lezhu","type":3,"filterable":1,"quickSearch":1,"searchable":1},
-
 {"key":"csp_Btwtoo","name":"两个BT〔SP〕","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"csp_Auete","name":"Auete〔SP〕","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
@@ -109,8 +87,6 @@
 
 {"key":"乐猪影视","name":"乐猪影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/乐猪影视.json"},
 
-// {"key":"csp_Dy1010","name":"双十〔SP〕","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
-
 {"key":"Tian","name":"天天〔SP〕","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"bdc1c75081e5e477189a463baa47e392"},
 
 {"key":"csp_Smdyy","name":"神马影院〔SP〕","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1},
@@ -128,8 +104,6 @@
 {"key":"csp_DiDuan","name":"低端影视〔SP〕","type":"3","api":"csp_Ddrk","searchable":"1","quickSearch":"1","filterable":"1"},
 
 {"key":"Hei","name":"石榴〔ts〕","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"3bff500c8b1e06c052a1b0f1f7a62b45","jar":"./JAR/cs.jar"},
-
-//by{"key":"Lgyy","name":"蓝光影院〔ts〕","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"b2e573ff040fcd54b50475660ee1a7d1","jar":"./JAR/cs.jar"},
 
 {"key":"csp_Lgyy","name":"蓝光影院〔SP〕","type":"3","api":"csp_Lgyy","searchable":"1","quickSearch":"1","filterable":"1","ext": "https://www.lgyy.tv"},
 
@@ -155,8 +129,6 @@
 
 
 //xBPQ
-
-//{"key":"csp_xBPQ_4k鸭奈飞","name":"4k鸭奈飞","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/4k鸭奈飞.json"},
 
 {"key":"csp_xBPQ_新视觉影院","name":"新视觉影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/新视觉影院.json"},
 
