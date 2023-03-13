@@ -304,6 +304,15 @@
 
 {"key":"csp_xBPQ_野马影视","name":"野马影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/野马影视.json"},
 
+{"key":"csp_xBPQ_七小时影院","name":"七小时影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/七小时影院.json"},
+
+{"key":"csp_xBPQ_二次萌影视","name":"二次萌影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/二次萌影视.json"},
+
+{"key":"csp_xBPQ_两个BT","name":"两个BT","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/两个BT.json"},
+
+{"key":"csp_xBPQ_看看屋","name":"看看屋","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/看看屋.json"},
+
+{"key":"csp_xBPQ_骚火影院","name":"骚火影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/骚火影院.json"},
 
 //采集
 
@@ -549,10 +558,16 @@
 {"key":"drpy_js_萌蛋蛋[V2]","name":"影视┃萌蛋蛋[V2][js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/萌蛋蛋[V2].js"},
 {"key":"drpy_js_天空影视[V2]","name":"影视┃天空影视[V2][js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/天空影视[V2].js"},
 {"key":"drpy_js_555影视[V2][V2]","name":"影视┃555影视[V2][js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/555影视[V2].js"},
-// {"key":"drpy_js_名称","name":"影视┃HG影院[V2][js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/HG影院[V2].js"},
-// {"key":"drpy_js_名称","name":"影视┃名称[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/名称.js"},
-// {"key":"drpy_js_名称","name":"影视┃名称[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/名称.js"},
-
+{"key":"drpy_js_HG影院[V2]","name":"影视┃HG影院[V2][js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/HG影院[V2].js"},
+// {"key":"drpy_js_开眼视频","name":"影视┃开眼视频[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/开眼视频.js"},
+{"key":"drpy_js_被窝电影","name":"影视┃被窝电影[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/被窝电影.js"},
+{"key":"drpy_js_豆巴影视","name":"影视┃豆巴影视[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/豆巴影视.js"},
+{"key":"drpy_js_新片场","name":"影视┃新片场[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/新片场.js"},
+{"key":"drpy_js_纽约影院","name":"影视┃纽约影院[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/纽约影院.js"},
+{"key":"drpy_js_名称","name":"影视┃名称[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/名称.js"},
+{"key":"drpy_js_名称","name":"影视┃名称[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/名称.js"},
+{"key":"drpy_js_名称","name":"影视┃名称[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/名称.js"},
+{"key":"drpy_js_名称","name":"影视┃名称[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/名称.js"},
 
 // {"key":"drpy_js_名称","name":"影视┃名称[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/名称.js"},
 
@@ -571,6 +586,7 @@
 {"key":"drpy_js_怡萱动漫","name":"动漫┃怡萱动漫[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/怡萱动漫.js"},
 // x{"key":"drpy_js_异世界动漫","name":"动漫┃异世界动漫[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/异世界动漫.js"},
 {"key":"drpy_js_嘶哩嘶哩","name":"动漫┃嘶哩嘶哩[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/嘶哩嘶哩.js"},
+{"key":"drpy_js_NyaFun","name":"动漫┃NyaFun[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/NyaFun.js"},
 
 //js小说
 {"key":"drpy_js_六月听书","name":"小说┃六月听书[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/六月听书.js"},
@@ -579,8 +595,10 @@
 {"key":"drpy_js_幻听网","name":"小说┃幻听网[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/幻听网听书.js"},
 {"key":"drpy_js_海洋听书","name":"小说┃海洋听书[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/海洋听书.js","playerType":"2"},
 // {"key":"drpy_js_海盗听书","name":"小说┃海盗听书[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/海盗听书.js","playerType":"2"},
-{"key":"drpy_js_听书网","name":"小说┃听书网[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/听书网.js","playerType":"2"},
+// {"key":"drpy_js_听书网","name":"小说┃听书网[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/听书网.js","playerType":"2"},
 {"key":"drpy_js_有声小说","name":"小说┃有声小说[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/有声小说吧.js","playerType":"2"},
+{"key":"drpy_js_i275听书","name":"小说┃i275[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/i275听书.js","playerType":"2"},
+{"key":"drpy_js_74听书","name":"小说┃74听书[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/74听书.js","playerType":"2"},
 
 //js少儿
 {"key":"drpy_js_兔小贝","name":"少儿┃兔小贝[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/兔小贝.js"},
@@ -589,6 +607,7 @@
 {"key":"drpy_js_A8音乐","name":"音乐┃A8音乐[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/A8音乐.js"},
 // {"key":"drpy_js_酷奇MV","name":"MV┃酷奇[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/酷奇MV.js"},
 {"key":"drpy_js_酷狗MV","name":"MV┃酷狗[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/酷狗MV.js"},
+{"key":"drpy_js_MV263","name":"MV┃263[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/MV263.js"},
 // {"key":"drpy_js_爱车MV","name":"MV┃爱车[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/爱车MV.js"},
 {"key":"drpy_js_音悦网","name":"MV┃音悦网[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/音悦网.js"},
 {"key":"drpy_js_DJ音乐","name":"音频┃DJ音乐[js]","type":3,"api":"./JS/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"./JS/js/DJ音乐.js","playerType":"2"},
