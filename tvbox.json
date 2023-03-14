@@ -1,8 +1,7 @@
 {
 "spider":"./JAR/fan.jar",
-"wallpaper":"http://maoyingshi.cc/api.php","warningText":"Smj.Love.C整理收集，切勿付费购买!",
+"wallpaper":"http://maoyingshi.cc/api.php","warningText":"Smj.Love.C整理收集，切勿付费购买！",
 "lives": [ { "group": "redirect", "channels": [ { "name": "redirect", "urls": [ "proxy://do=live&type=txt&ext=./TV/live.txt" ] } ] }, { "name": "live", "url": "https://box.smjc.cc/tv/tv.txt", "type": 0, "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}", "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" } ],
-
 "sites":[
 
 {"key":"drpy_js_豆瓣","name":"💖Smj.Love.C💖 影视推荐","type":3,"api":"./JS/lib/drpy.min.js","ext":"./JS/js/drpy.js"},
