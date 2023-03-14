@@ -1,9 +1,5 @@
 {
-"spider":"./JAR/fan.jar",
-"wallpaper":"http://maoyingshi.cc/api.php","warningText":"Smj.Love.C整理收集，切勿付费购买！",
-"lives": [ { "group": "redirect", "channels": [ { "name": "redirect", "urls": [ "proxy://do=live&type=txt&ext=./TV/live.txt" ] } ] }, { "name": "live", "url": "https://box.smjc.cc/tv/tv.txt", "type": 0, "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}", "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" } ],
 "sites":[
-
 {"key":"drpy_js_豆瓣","name":"💖Smj.Love.C💖 影视推荐","type":3,"api":"./JS/lib/drpy.min.js","ext":"./JS/js/drpy.js"},
 
 {"key":"drpy_js_baby1","name":"💖张梓晨💖宝宝动漫库 😙","type":3,"api":"./JS/lib/alistbaby.js","ext":"./JS/js/baby.json"},
@@ -632,14 +628,18 @@
 
 //
 {"key":"csp_bendi","name":"本地文件(打开存储权限)","type":3,"api":"csp_LocalFile","searchable":1,"quickSearch":1,"filterable":1,"type_flag":1},
-
-// {"key":"push_agent","name":"推送┃云盘┃磁力","type":3,"api":"csp_PushAgent","playerType":1,"searchable":0,"quickSearch":0,"filterable":0,"ext":"./JS/lib/token.txt","jar":"./JAR/cs.jar"}
-
-{"key":"push_agent","name":"推送┃云盘┃磁力","type":3,"api":"csp_Push","playerType":1,"searchable":0,"quickSearch":0,"filterable":0,"ext":"./JS/lib/token.txt","jar":"./JAR/cs.jar"}
+{"key":"push_agent","name":"推送┃云盘┃磁力","type":3,"api":"csp_Push","playerType":1,"searchable":0,"quickSearch":0,"filterable":0,"ext":"./JS/lib/token.txt"}
 
 ],
-
-
+"lives": [
+  {
+    "name": "live",
+    "type": 0,
+    "url": "https://box.smjc.cc/tv/tv.txt",
+    "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+    "logo": "https://epg.112114.xyz/logo/{name}.png"
+  }
+],
 "parses":[
 {"name":"Json聚合","type":3,"url":"Demo"},
 {"name":"Web聚合","type":3,"url":"Web"},
@@ -699,178 +699,68 @@
 { "name": "21号线", "type": 1, "url": "https://jxm.qwrev534.top/?url=" } ],
 
 
-"rules":[
-{
-"host":"www.djuu.com",
-"rule":[
-"mp4.djuu.com",
-"m4a"]
-},
-{
-"host":"m.ysxs8.vip",
-"rule":[
-"ysting.ysxs8.vip:81",
-"xmcdn.com"],
-"filter":[
-]
-},
-{
-"host":"hdmoli.com",
-"rule":[
-".m3u8"]
-},
-{
-"host":"https://api.live.bilibili.com",
-"rule":[
-"bilivideo.com",
-"/index.m3u8"],
-"filter":[
-"data.bilibili.com/log/web",
-"i0.hdslb.com/bfs/live/"]
-},
-{
-"host":"www.agemys.cc",
-"rule":[
-"cdn-tos",
-"obj/tos-cn"]
-},
-{
-"host":"www.fun4k.com",
-"rule":[
-"https://hd.ijycnd.com/play",
-"index.m3u8"]
-},
-{
-"host":"zjmiao.com",
-"rule":[
-"play.videomiao.vip/API.php",
-"time=",
-"key=",
-"path="]
-},
-{
-"host":"*",
-"rule":[
-"default.365yg.com"]
-},
-{
-"host":"dyxs20.com",
-"rule":[
-".m3u8"]
-},
-{
-"host":"www.sharenice.net",
-"rule":[
-"http.*?/play.{0,3}\\?[^url]{2,8}=.*"]
-},
-{
-"host":"www.sharenice.net",
-"rule":[
-"sovv.qianpailive.com",
-"vid="],
-"filter":[
-]
-},
-{
-"host":"www.sharenice.net",
-"rule":[
-"qianpailive.com",
-"vid="]
-},
-{
-"host":"www.sharenice.net",
-"rule":[
-"douyin.com",
-"/play/"]
-},
-{
-"host":"*",
-"rule":[
-"douyin.com/aweme",
-"video_id="]
-},
-{
-"host":"www.sharenice.net",
-"rule":[
-"huoshan.com",
-"/item/video/"],
-"filter":[
-]
-},
-{
-"host":"*",
-"rule":[
-"http((?!http).){12,}?\\.(m3u8┃mp4┃flv┃avi┃mkv┃rm┃wmv┃mpg┃m4a)\\?.*"]
-},
-{
-"host":"*",
-"rule":[
-"http((?!http).){12,}\\.(m3u8┃mp4┃flv┃avi┃mkv┃rm┃wmv┃mpg┃m4a)"]
-}
-],
-
-
-"flags": [
-  "imgo",
-  "youku",
-  "qq",
-  "iqiyi",
-  "qiyi",
-  "fun",
-  "letv",
-  "leshi",
-  "sohu",
-  "tudou",
-  "xigua",
-  "cntv",
-  "1905",
-  "pptv",
-  "mgtv",
-  "wasu",
-  "bilibili",
-  "renrenmi"
-],
-"hotSearch":[
-{
-"name":"mobilesearch",
-"request":{
-"method":"GET",
-"header":[
-{
-"key":"Referer",
-"value":"https://boXPy.once678.repl.co"
-}
-],
-"url":{
-"raw":"https://boXPy.once678.repl.co/hotsugg?t={time}"
-}
-},
-"response":{
-"result":"$.data",
-"data":[
-{
-"key":"keyword",
-"value":"title"
-}
-]
-}
-}
-],
-"sniffer":{
-"userAgent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/105.0.0.0Safari/537.36Edg/105.0.1343.27",
-"isVideoFormat":"http((?!http).){26,}\\.(m3u8┃mp4┃flv┃avi┃mkv┃wmv┃mpg┃mpeg┃mov┃ts┃3gp┃rm┃rmvb┃asf┃m4a┃mp3┃wma)",
-"custom":[
-{
-"url":"/Cloud/Down/AliCloud/",
-"mimeType":"text/html",
-"encoding":"utf-8",
-"header":{
-"Referer":"https://www.zxzj.org/"
-}
-}
-]
-},
-
+"rules": [
+  {
+    "host": "www.djuu.com",
+    "rule": [
+      "mp4.djuu.com",
+      "m4a"
+    ]
+  },
+  {
+    "host": "m.ysxs8.vip",
+    "rule": [
+      "ysting.ysxs8.vip:81",
+      "xmcdn.com"
+    ],
+    "filter": []
+  },
+  {
+    "host": "hdmoli.com",
+    "rule": [
+      ".m3u8"
+    ]
+  },
+  {
+    "host": "https://api.live.bilibili.com",
+    "rule": [
+      "bilivideo.com",
+      "/index.m3u8"
+    ],
+    "filter": [
+      "data.bilibili.com/log/web",
+      "i0.hdslb.com/bfs/live/"
+    ]
+  },
+  {
+    "host": "www.agemys.cc",
+    "rule": [
+      "cdn-tos",
+      "obj/tos-cn"
+    ]
+  },
+  {
+    "host": "www.fun4k.com",
+    "rule": [
+      "https://hd.ijycnd.com/play",
+      "index.m3u8"
+    ]
+  },
+  {
+    "host": "zjmiao.com",
+    "rule": [
+      "play.videomiao.vip/API.php",
+      "time=",
+      "key=",
+      "path="
+    ]
+  },
+  {
+"host": "*",
+"rule": [ "default.365yg.com" ] }, { "host": "dyxs20.com", "rule": [ ".m3u8" ] }, { "host": "www.sharenice.net", "rule": [ "http.*?/play.{0,3}\\?[^url]{2,8}=.*" ] }, { "host": "www.sharenice.net", "rule": [ "sovv.qianpailive.com", "vid=" ], "filter": [] }, { "host": "www.sharenice.net", "rule": [ "qianpailive.com", "vid=" ] }, { "host": "www.sharenice.net", "rule": [ "douyin.com", "/play/" ] }, { "host": "*", "rule": [ "douyin.com/aweme", "video_id=" ] }, { "host": "www.sharenice.net", "rule": [ "huoshan.com", "/item/video/" ], "filter": [] }, { "host": "*", "rule": [ "http((?!http).){12,}?\\.(m3u8┃mp4┃flv┃avi┃mkv┃rm┃wmv┃mpg┃m4a)\\?.*" ] }, { "host": "*", "rule": [ "http((?!http).){12,}\\.(m3u8┃mp4┃flv┃avi┃mkv┃rm┃wmv┃mpg┃m4a)" ] } ],
+"flags": [ "youku", "qq", "QQ", "iqiyi", "qiyi", "letv", "sohu", "tudou", "pptv", "PPTV", "mgtv", "ltnb", "rx", "SLYS4k", "BYGA", "luanzi", "dxzy", "QEYSS", "aliyun", "AliS", "122", "chuangying", "CL4K", "xfyun", "wuduzy", "wasu", "bilibili", "renrenmi", "xmm", "xigua", "m1905", "funshion", "优酷", "芒果", "腾讯", "爱奇艺", "奇艺", "哔哩哔哩", "哔哩", "西瓜视频", "腾讯视频", "奇艺视频", "优酷视频", "芒果视频", "乐视视频" ],
+"hotSearch": [ { "name": "mobilesearch", "request": { "method": "GET", "header": [ { "key": "Referer", "value": "https://boXPy.once678.repl.co" } ], "url": { "raw": "https://boXPy.once678.repl.co/hotsugg?t={time}" } }, "response": { "result": "$.data", "data": [ { "key": "keyword", "value": "title" } ] } } ],
+"sniffer": { "userAgent": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/105.0.0.0Safari/537.36Edg/105.0.1343.27", "isVideoFormat": "http((?!http).){26,}\\.(m3u8┃mp4┃flv┃avi┃mkv┃wmv┃mpg┃mpeg┃mov┃ts┃3gp┃rm┃rmvb┃asf┃m4a┃mp3┃wma)", "custom": [ { "url": "/Cloud/Down/AliCloud/", "mimeType": "text/html", "encoding": "utf-8", "header": { "Referer": "https://www.zxzj.org/" } } ] },
 "ijk":[
 {"group":"软解码","options":[
 {"category":4,"name":"opensles","value":"0"},
@@ -966,5 +856,8 @@
   "cdnjs.hnfenxun.com",
   "cms.qdwght.com",
   "hd.youyhn.com"
-]
+],
+"wallpaper":"http://maoyingshi.cc/api.php",
+"warningText":"Smj.Love.C整理收集，切勿付费购买！",
+"spider": "./JAR/fan.jar"
 }

@@ -3,7 +3,6 @@
 //转载请注明出处
 {
     "urls":[
-    //{"url":"","name":"请点击下方线路观看"},
     {
         "url": "https://box.smjc.cc/box/tvbox.json",
         "name": "💖Smj.Love.C💖 自用"
@@ -17,7 +16,7 @@
         "name": "💖Smj.Love.C💖 备用"
     },
     {
-        "url": "https://ghproxy.com/https://raw.githubusercontent.com/smjxf/box/main/tvbox.json",
+        "url": "https://ghproxy.com/https://raw.githubusercontent.com/smjxf/box/main/wp.json",
         "name": "💖Smj.Love.C💖 网盘备用"
     },
     {
@@ -84,11 +83,5 @@
         "url": "https://app.easybox.vip/dy",
         "name": "🚀easybox"
     }
-    ],
-    "vip": [
-    {
-    "url": "1",
-    "name": "1"
-    }
     ]
-    }
+ }
