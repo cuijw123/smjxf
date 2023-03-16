@@ -664,7 +664,7 @@
 {"name":"Json并发","type":2,"url":"Parallel"},
 {"name":"Json轮询","type":2,"url":"Sequence"},
 
-{ "name": "Smj.Love.C", "type": 1, "url": "https://api.key521.cn/api/json.php/?key=b0xSEpjNPoCkPJNEFq&url=" },
+{ "name": "Smj.Love.C", "type": 1, "url": "https://api.key521.cn/api/json.php/?key=o7GzFLrfjjtHRvQrTT&url=" },
 
 { "name": "辛店解析", "type": 1, "url": "http://bpq.xdv.icu/analysis.php?v=", "ext": { "flag": [ "qq", "腾讯", "企鹅", "IQiYi", "qiyi", "爱奇艺", "奇艺", "youku", "YouKu", "优酷", "sohu", "SoHu", "搜狐", "letv", "LeShi", "乐视", "imgo", "mgtv", "MangGuo", "芒果", "SLYS4k", "BYGA", "luanzi", "AliS", "dxzy", "bilibili", "QEYSS", "xigua", "西瓜视频", "腾讯视频", "奇艺视频", "优酷视频", "芒果视频", "乐视视频" ] } },
 
