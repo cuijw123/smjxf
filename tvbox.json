@@ -305,6 +305,8 @@
 
 {"key":"csp_xBPQ_骚火影院","name":"骚火影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/骚火影院.json"},
 
+{"key":"csp_xBPQ_奈飞中文网","name":"奈飞中文网","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/奈飞中文网.json"},
+
 //采集
 
 {"key":"量子","name":"采集┃量子","type":1,"api":"http://lzizy.net/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","记录片","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
@@ -439,7 +441,7 @@
 // X{"key":"drpy_js_看片狂人","name":"影视┃看片狂人[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/看片狂人.js"},
 {"key":"drpy_js_快云影院","name":"影视┃快云影院[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/快云影院.js"},
 // {"key":"drpy_js_来看点播","name":"影视┃来看点播[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/来看点播.js"},
-// X{"key":"drpy_js_蓝光影院","name":"影视┃蓝光影院[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/蓝光影院.js"},
+{"key":"drpy_js_蓝光影院","name":"影视┃蓝光影院[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/蓝光影院.js"},
 {"key":"drpy_js_乐动影视","name":"影视┃乐动影视[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/乐动影视.js"},
 {"key":"drpy_js_利丽娅电影","name":"影视┃利丽娅电影[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/利丽娅电影.js"},
 {"key":"drpy_js_两个 BT","name":"影视┃两个BT[js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/两个BT.js"},
