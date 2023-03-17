@@ -352,7 +352,7 @@
 //XYQH
 {"key":"csp_XYQHiker_39影视","name":"39影视(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/39影视.json"},
 
-//{"key":"csp_XYQH4k_4K极客","name":"4K极客(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/4K极客.json"},
+{"key":"csp_XYQH4k_4K极客","name":"4K极客(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/4K极客.json"},
 
 {"key":"csp_XYQHiker_野荷塘","name":"野荷塘(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/野荷塘.json"},
 
@@ -640,6 +640,8 @@
 
 //JS直播转换
 { "key": "直播转点播", "name": "直播转换", "type": 3, "api": "./TV/直播转点播.js", "ext": "./TV/直播.js" },
+{ "key": "适配影视直播", "name": "📡直播转换多仓版", "type": 3, "api": "./TV/直播转点播1.js", "ext": "./TV/直播仓库.json&&&http://ftyyy.tk/json/zszb.jpeg" },
+ {"key": "js_仓库通用","name": "📡直播转换通用版","type": 3,"api": "./TV/直播转点播2.js","ext": "./TV/直播2.json"},	
   //{"key": "直播转点播","name": "🎦直播转换","type": 3,"api": "./js/直播转点播.js","ext": "./lives/$$$本地名称$本地直播.txt#名称①$直播链接①#名称②$直播链接②#名称③$直播链接③"}, 
 
 
