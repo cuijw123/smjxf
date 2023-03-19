@@ -7,8 +7,8 @@
             "search": true
     },{
         "name" : " 🚓旋风战车队 ",
-        "server" : "http://pan.smjc.cc/自用Open/动画片/旋风战车队.1-5季",
-        "startPage" : "",
+        "server" : "http://pan.smjc.cc",
+        "startPage" : "/自用Open/动画片/旋风战车队",
         "showAll" : false,
         "search" : true
     },
